@@ -1,0 +1,290 @@
+@page {margin : 0.5em;}
+
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.italic {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : italic;
+	color : #000000;
+}
+span.note-cue-deprecated {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	vertical-align : super;
+	color : #000000;
+}
+p.a-head {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 24px 0px 12px 0px;
+}
+p.b-head {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 24px 0px 12px 0px;
+}
+p.chapter-start {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.42em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.29;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 24px 0px;
+}
+p.contents-chapter {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.text-indent {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.text-indent-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 0px 13px 0px;
+}
+p.notes {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : justify;
+	color : #000000;
+	text-indent : 9px;
+	margin : 0px;
+}
+p.p-iii-title {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 3.17em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.16;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 24px 0px;
+}
+p.p-iv-title-verso {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 12px;
+}
+p.p-iv-title-verso-line-above {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 0px 0px;
+}
+p.pic-centred {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 48px 0px 0px 0px;
+}
+p.quote {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 20px;
+}
+p.text {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.p-iii-author {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.11;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 24px 0px;
+}
+p.quote-HI {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : -20px;
+	margin : 0px 0px 0px 40px;
+}
+p.quote-second-para {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 0px 0px 20px;
+}
+p.text-line-above {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 12px 0px 0px 0px;
+}
+p.text-ranged-right {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.text-line-above-and-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 12px 0px 13px 0px;
+}
+p.text-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 0px;
+}
+div.linespace {margin-top:12px;}
+a.footnote-link {font-family:serif; font-weight:normal; font-style:normal; font-variant: normal; vertical-align:text-top; font-size:75%;}
+div.nobreak{page-break-inside:avoid;}
+img{height:auto; object-fit:fill;}

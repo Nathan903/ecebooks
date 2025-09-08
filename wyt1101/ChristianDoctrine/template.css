@@ -1,0 +1,548 @@
+
+
+@page {
+	margin : 0.5em;
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.italic {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : italic;
+}
+span.bold {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+}
+span.Endnote-Reference {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	vertical-align : super;
+}
+span.bold-italic {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : italic;
+}
+span.Symbol {
+	font-family :  sans-serif;
+	font-weight : normal;
+	font-style : normal;
+}
+p.Basic-Paragraph {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.box-heading {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 11px 0px;
+}
+p.Heading-B {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : italic;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.18;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 16px 0px 6px 0px;
+}
+p.display-RR {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.Exercise-box-heading {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 24px 0px 11px 0px;
+}
+p.text-indent {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px;
+}
+p.text-indent-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 0px 12px 0px;
+}
+p.Heading-A {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 25px 0px 7px 0px;
+}
+p.text-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 12px 0px;
+}
+p.text {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.quotes {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 20px;
+}
+p.quotes-second-para {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 0px 0px 20px;
+}
+p.text-line-above {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 12px 0px 0px 0px;
+}
+p.text-line-above-and-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 12px 0px;
+}
+li.numbered-list {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	margin-right : 0px;
+	margin-top : 0px;
+	margin-bottom : 0px;
+}
+p.text-indent-line-above {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 12px 0px 0px 0px;
+}
+p.Chapter-start {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 1.42em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.35;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 18px 0px;
+}
+p.p-iii-title {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2.5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.p-iii-author {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 36px 0px 0px 0px;
+}
+p.picture-centred {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 24px 0px 12px 0px;
+}
+p.page-iv-line-above {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 11px 0px 0px 0px;
+}
+p.page-iv-info {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.22;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.contents-chapter {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.6;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.contents-part {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.45;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 10px 0px 5px 0px;
+}
+p.Heading-A-after {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.92em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.27;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 7px 0px;
+}
+p.Endnote-Text {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.71em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.24;
+	text-align : justify;
+	color : #000000;
+	text-indent : 9px;
+	margin : 0px;
+}
+li.bullet-list {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	margin-right : 0px;
+	margin-top : 0px;
+	margin-bottom : 0px;
+}
+p.references {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 12px 0px 0px 0px;
+}
+p.Endnotes-A-head {
+	font-family :  sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 0.88;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 32px 0px 11px 0px;
+}
+p.source {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 6px 0px 12px 20px;
+}
+p.Normal {
+	font-family :  sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.79em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.21;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.display-quote {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 9px;
+}
+p.quotes-RR {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : right;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 20px;
+}
+p.quote-second-para-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 20px;
+	margin : 0px 0px 12px 20px;
+}
+p.quotes-line-below {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 12px 20px;
+}
+p.exercise-box-heading-no-space {
+	font-family :  serif;
+	font-weight : bold;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 11px 0px;
+}
+p.quote-extra-indent {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 40px;
+}
+p.plate-captions {
+	font-family :  serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.2;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+table.No-Table-Style {
+	border-collapse : collapse;
+	border-width : 1px;
+	border-style : solid;
+	border-color : #000000;
+	margin-top : 4px;
+	margin-bottom : -4px;
+}
+div.Basic-Text-Frame {
+}

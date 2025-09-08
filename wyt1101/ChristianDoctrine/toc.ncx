@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="9780334040194"/>
+		<meta name="dtb:depth" content="3"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>SCM CORE TEXT</text>
+			</navLabel>
+			<content src="CTChristianDoc.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Contents</text>
+			</navLabel>
+			<content src="CTChristianDoc-1.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>List of Plates</text>
+			</navLabel>
+			<content src="CTChristianDoc-2.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Introduction</text>
+			</navLabel>
+			<content src="CTChristianDoc-3.html#toc_marker-4"/>
+			<navPoint id="navpoint5" playOrder="5">
+				<navLabel>
+					<text>What is this book?</text>
+				</navLabel>
+				<content src="CTChristianDoc-3.html#toc_marker-4-1"/>
+			</navPoint>
+			<navPoint id="navpoint6" playOrder="6">
+				<navLabel>
+					<text>Where does this book come from?</text>
+				</navLabel>
+				<content src="CTChristianDoc-3.html#toc_marker-4-2"/>
+			</navPoint>
+			<navPoint id="navpoint7" playOrder="7">
+				<navLabel>
+					<text>Notes</text>
+				</navLabel>
+				<content src="CTChristianDoc-3.html#toc_marker-4-3"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Part 1. Life in God</text>
+			</navLabel>
+			<content src="CTChristianDoc-4.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>1. Making Sense</text>
+			</navLabel>
+			<content src="CTChristianDoc-5.html#toc_marker-6"/>
+			<navPoint id="navpoint10" playOrder="10">
+				<navLabel>
+					<text>Should theology exist?</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-1"/>
+			</navPoint>
+			<navPoint id="navpoint11" playOrder="11">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-2"/>
+			</navPoint>
+			<navPoint id="navpoint12" playOrder="12">
+				<navLabel>
+					<text>Novels and gossip</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-3"/>
+			</navPoint>
+			<navPoint id="navpoint13" playOrder="13">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-4"/>
+			</navPoint>
+			<navPoint id="navpoint14" playOrder="14">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-5"/>
+			</navPoint>
+			<navPoint id="navpoint15" playOrder="15">
+				<navLabel>
+					<text>Communal sense</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-6"/>
+			</navPoint>
+			<navPoint id="navpoint16" playOrder="16">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-7"/>
+			</navPoint>
+			<navPoint id="navpoint17" playOrder="17">
+				<navLabel>
+					<text>The place of doctrine</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-8"/>
+			</navPoint>
+			<navPoint id="navpoint18" playOrder="18">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-9"/>
+			</navPoint>
+			<navPoint id="navpoint19" playOrder="19">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-10"/>
+			</navPoint>
+			<navPoint id="navpoint20" playOrder="20">
+				<navLabel>
+					<text>Rationality in Corinth</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-11"/>
+			</navPoint>
+			<navPoint id="navpoint21" playOrder="21">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-12"/>
+			</navPoint>
+			<navPoint id="navpoint22" playOrder="22">
+				<navLabel>
+					<text>The message of the cross</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-13"/>
+			</navPoint>
+			<navPoint id="navpoint23" playOrder="23">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-14"/>
+			</navPoint>
+			<navPoint id="navpoint24" playOrder="24">
+				<navLabel>
+					<text>The meaning of life?</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-15"/>
+			</navPoint>
+			<navPoint id="navpoint25" playOrder="25">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-16"/>
+			</navPoint>
+			<navPoint id="navpoint26" playOrder="26">
+				<navLabel>
+					<text>Watching the world</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-17"/>
+			</navPoint>
+			<navPoint id="navpoint27" playOrder="27">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-5.html#toc_marker-6-18"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint28" playOrder="28">
+			<navLabel>
+				<text>2. Knowing and Loving</text>
+			</navLabel>
+			<content src="CTChristianDoc-6.html#toc_marker-7"/>
+			<navPoint id="navpoint29" playOrder="29">
+				<navLabel>
+					<text>The God who addresses</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-1"/>
+			</navPoint>
+			<navPoint id="navpoint30" playOrder="30">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-2"/>
+			</navPoint>
+			<navPoint id="navpoint31" playOrder="31">
+				<navLabel>
+					<text>Called to love</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-3"/>
+			</navPoint>
+			<navPoint id="navpoint32" playOrder="32">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-4"/>
+			</navPoint>
+			<navPoint id="navpoint33" playOrder="33">
+				<navLabel>
+					<text>God’s music</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-5"/>
+			</navPoint>
+			<navPoint id="navpoint34" playOrder="34">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-6"/>
+			</navPoint>
+			<navPoint id="navpoint35" playOrder="35">
+				<navLabel>
+					<text>God is love</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-7"/>
+			</navPoint>
+			<navPoint id="navpoint36" playOrder="36">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-8"/>
+			</navPoint>
+			<navPoint id="navpoint37" playOrder="37">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-9"/>
+			</navPoint>
+			<navPoint id="navpoint38" playOrder="38">
+				<navLabel>
+					<text>Learning to love</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-10"/>
+			</navPoint>
+			<navPoint id="navpoint39" playOrder="39">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-11"/>
+			</navPoint>
+			<navPoint id="navpoint40" playOrder="40">
+				<navLabel>
+					<text>Knowing in particular</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-12"/>
+			</navPoint>
+			<navPoint id="navpoint41" playOrder="41">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-6.html#toc_marker-7-13"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint42" playOrder="42">
+			<navLabel>
+				<text>3. Speaking of God</text>
+			</navLabel>
+			<content src="CTChristianDoc-7.html#toc_marker-8"/>
+			<navPoint id="navpoint43" playOrder="43">
+				<navLabel>
+					<text>Freedom and Idolatry</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-1"/>
+			</navPoint>
+			<navPoint id="navpoint44" playOrder="44">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-2"/>
+			</navPoint>
+			<navPoint id="navpoint45" playOrder="45">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-3"/>
+			</navPoint>
+			<navPoint id="navpoint46" playOrder="46">
+				<navLabel>
+					<text>Acknowledging the sun</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-4"/>
+			</navPoint>
+			<navPoint id="navpoint47" playOrder="47">
+				<navLabel>
+					<text>Pragmatic, propositional and imaginative</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-5"/>
+			</navPoint>
+			<navPoint id="navpoint48" playOrder="48">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-6"/>
+			</navPoint>
+			<navPoint id="navpoint49" playOrder="49">
+				<navLabel>
+					<text>Immanence and economy</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-7"/>
+			</navPoint>
+			<navPoint id="navpoint50" playOrder="50">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-8"/>
+			</navPoint>
+			<navPoint id="navpoint51" playOrder="51">
+				<navLabel>
+					<text>Analogical language</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-9"/>
+			</navPoint>
+			<navPoint id="navpoint52" playOrder="52">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-10"/>
+			</navPoint>
+			<navPoint id="navpoint53" playOrder="53">
+				<navLabel>
+					<text>Love all the way</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-11"/>
+			</navPoint>
+			<navPoint id="navpoint54" playOrder="54">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-12"/>
+			</navPoint>
+			<navPoint id="navpoint55" playOrder="55">
+				<navLabel>
+					<text>The analogy of love</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-13"/>
+			</navPoint>
+			<navPoint id="navpoint56" playOrder="56">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-7.html#toc_marker-8-14"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint57" playOrder="57">
+			<navLabel>
+				<text>4. The Threefold Way</text>
+			</navLabel>
+			<content src="CTChristianDoc-8.html#toc_marker-9"/>
+			<navPoint id="navpoint58" playOrder="58">
+				<navLabel>
+					<text>The kingdom of God</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-1"/>
+			</navPoint>
+			<navPoint id="navpoint59" playOrder="59">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-2"/>
+			</navPoint>
+			<navPoint id="navpoint60" playOrder="60">
+				<navLabel>
+					<text>The beloved Son</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-3"/>
+			</navPoint>
+			<navPoint id="navpoint61" playOrder="61">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-4"/>
+			</navPoint>
+			<navPoint id="navpoint62" playOrder="62">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-5"/>
+			</navPoint>
+			<navPoint id="navpoint63" playOrder="63">
+				<navLabel>
+					<text>Reordered language</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-6"/>
+			</navPoint>
+			<navPoint id="navpoint64" playOrder="64">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-7"/>
+			</navPoint>
+			<navPoint id="navpoint65" playOrder="65">
+				<navLabel>
+					<text>The threefold way</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-8"/>
+			</navPoint>
+			<navPoint id="navpoint66" playOrder="66">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-9"/>
+			</navPoint>
+			<navPoint id="navpoint67" playOrder="67">
+				<navLabel>
+					<text>Divine drama</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-10"/>
+			</navPoint>
+			<navPoint id="navpoint68" playOrder="68">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-11"/>
+			</navPoint>
+			<navPoint id="navpoint69" playOrder="69">
+				<navLabel>
+					<text>The heart of the doctrine</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-12"/>
+			</navPoint>
+			<navPoint id="navpoint70" playOrder="70">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-13"/>
+			</navPoint>
+			<navPoint id="navpoint71" playOrder="71">
+				<navLabel>
+					<text>Imagining God</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-14"/>
+			</navPoint>
+			<navPoint id="navpoint72" playOrder="72">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-15"/>
+			</navPoint>
+			<navPoint id="navpoint73" playOrder="73">
+				<navLabel>
+					<text>Three-personned God</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-16"/>
+			</navPoint>
+			<navPoint id="navpoint74" playOrder="74">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-17"/>
+			</navPoint>
+			<navPoint id="navpoint75" playOrder="75">
+				<navLabel>
+					<text>Divine substance</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-18"/>
+			</navPoint>
+			<navPoint id="navpoint76" playOrder="76">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-19"/>
+			</navPoint>
+			<navPoint id="navpoint77" playOrder="77">
+				<navLabel>
+					<text>One-in-three, three-in-one</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-20"/>
+			</navPoint>
+			<navPoint id="navpoint78" playOrder="78">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-21"/>
+			</navPoint>
+			<navPoint id="navpoint79" playOrder="79">
+				<navLabel>
+					<text>It’s the economy, stupid</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-22"/>
+			</navPoint>
+			<navPoint id="navpoint80" playOrder="80">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-23"/>
+			</navPoint>
+			<navPoint id="navpoint81" playOrder="81">
+				<navLabel>
+					<text>Imagining salvation</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-24"/>
+			</navPoint>
+			<navPoint id="navpoint82" playOrder="82">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-8.html#toc_marker-9-25"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint83" playOrder="83">
+			<navLabel>
+				<text>5. God’s Human Life</text>
+			</navLabel>
+			<content src="CTChristianDoc-9.html#toc_marker-10"/>
+			<navPoint id="navpoint84" playOrder="84">
+				<navLabel>
+					<text>The face of Christ</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-1"/>
+			</navPoint>
+			<navPoint id="navpoint85" playOrder="85">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-2"/>
+			</navPoint>
+			<navPoint id="navpoint86" playOrder="86">
+				<navLabel>
+					<text>Fully human: Finitude and bodiliness</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-3"/>
+			</navPoint>
+			<navPoint id="navpoint87" playOrder="87">
+				<navLabel>
+					<text>Exercise</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-4"/>
+			</navPoint>
+			<navPoint id="navpoint88" playOrder="88">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-5"/>
+			</navPoint>
+			<navPoint id="navpoint89" playOrder="89">
+				<navLabel>
+					<text>Fully human: The fullness of human life</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-6"/>
+			</navPoint>
+			<navPoint id="navpoint90" playOrder="90">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-7"/>
+			</navPoint>
+			<navPoint id="navpoint91" playOrder="91">
+				<navLabel>
+					<text>Too high a bar to jump?</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-8"/>
+			</navPoint>
+			<navPoint id="navpoint92" playOrder="92">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-9"/>
+			</navPoint>
+			<navPoint id="navpoint93" playOrder="93">
+				<navLabel>
+					<text>Imitation and obedience</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-10"/>
+			</navPoint>
+			<navPoint id="navpoint94" playOrder="94">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-11"/>
+			</navPoint>
+			<navPoint id="navpoint95" playOrder="95">
+				<navLabel>
+					<text>True obedience</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-12"/>
+			</navPoint>
+			<navPoint id="navpoint96" playOrder="96">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-13"/>
+			</navPoint>
+			<navPoint id="navpoint97" playOrder="97">
+				<navLabel>
+					<text>God’s gift</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-14"/>
+			</navPoint>
+			<navPoint id="navpoint98" playOrder="98">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-15"/>
+			</navPoint>
+			<navPoint id="navpoint99" playOrder="99">
+				<navLabel>
+					<text>The heart of the doctrine</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-16"/>
+			</navPoint>
+			<navPoint id="navpoint100" playOrder="100">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-17"/>
+			</navPoint>
+			<navPoint id="navpoint101" playOrder="101">
+				<navLabel>
+					<text>A place in the Son</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-18"/>
+			</navPoint>
+			<navPoint id="navpoint102" playOrder="102">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-19"/>
+			</navPoint>
+			<navPoint id="navpoint103" playOrder="103">
+				<navLabel>
+					<text>The hypostatic union</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-20"/>
+			</navPoint>
+			<navPoint id="navpoint104" playOrder="104">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-21"/>
+			</navPoint>
+			<navPoint id="navpoint105" playOrder="105">
+				<navLabel>
+					<text>Believing in the incarnation</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-22"/>
+			</navPoint>
+			<navPoint id="navpoint106" playOrder="106">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-9.html#toc_marker-10-23"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint107" playOrder="107">
+			<navLabel>
+				<text>6. The Enlivening Spirit</text>
+			</navLabel>
+			<content src="CTChristianDoc-10.html#toc_marker-11"/>
+			<navPoint id="navpoint108" playOrder="108">
+				<navLabel>
+					<text>The Spirit in the Old Testament</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-1"/>
+			</navPoint>
+			<navPoint id="navpoint109" playOrder="109">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-2"/>
+			</navPoint>
+			<navPoint id="navpoint110" playOrder="110">
+				<navLabel>
+					<text>The Spirit in Acts</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-3"/>
+			</navPoint>
+			<navPoint id="navpoint111" playOrder="111">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-4"/>
+			</navPoint>
+			<navPoint id="navpoint112" playOrder="112">
+				<navLabel>
+					<text>The Spirit in Paul and John</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-5"/>
+			</navPoint>
+			<navPoint id="navpoint113" playOrder="113">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-6"/>
+			</navPoint>
+			<navPoint id="navpoint114" playOrder="114">
+				<navLabel>
+					<text>Spirituality</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-7"/>
+			</navPoint>
+			<navPoint id="navpoint115" playOrder="115">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-8"/>
+			</navPoint>
+			<navPoint id="navpoint116" playOrder="116">
+				<navLabel>
+					<text>The Spirit-filled life</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-9"/>
+			</navPoint>
+			<navPoint id="navpoint117" playOrder="117">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-10"/>
+			</navPoint>
+			<navPoint id="navpoint118" playOrder="118">
+				<navLabel>
+					<text>The symphony of the Spirit</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-11"/>
+			</navPoint>
+			<navPoint id="navpoint119" playOrder="119">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-12"/>
+			</navPoint>
+			<navPoint id="navpoint120" playOrder="120">
+				<navLabel>
+					<text>Giving and receiving</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-13"/>
+			</navPoint>
+			<navPoint id="navpoint121" playOrder="121">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-14"/>
+			</navPoint>
+			<navPoint id="navpoint122" playOrder="122">
+				<navLabel>
+					<text>The Spirit in the world</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-15"/>
+			</navPoint>
+			<navPoint id="navpoint123" playOrder="123">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-10.html#toc_marker-11-16"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint124" playOrder="124">
+			<navLabel>
+				<text>Part 2: Life in the World</text>
+			</navLabel>
+			<content src="CTChristianDoc-11.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint125" playOrder="125">
+			<navLabel>
+				<text>7. The Good Creation</text>
+			</navLabel>
+			<content src="CTChristianDoc-12.html#toc_marker-13"/>
+			<navPoint id="navpoint126" playOrder="126">
+				<navLabel>
+					<text>Creation and covenant</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-1"/>
+			</navPoint>
+			<navPoint id="navpoint127" playOrder="127">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-2"/>
+			</navPoint>
+			<navPoint id="navpoint128" playOrder="128">
+				<navLabel>
+					<text>Creation and gospel</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-3"/>
+			</navPoint>
+			<navPoint id="navpoint129" playOrder="129">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-4"/>
+			</navPoint>
+			<navPoint id="navpoint130" playOrder="130">
+				<navLabel>
+					<text>God’s intimate presence</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-5"/>
+			</navPoint>
+			<navPoint id="navpoint131" playOrder="131">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-6"/>
+			</navPoint>
+			<navPoint id="navpoint132" playOrder="132">
+				<navLabel>
+					<text>Creation from nothing</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-7"/>
+			</navPoint>
+			<navPoint id="navpoint133" playOrder="133">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-8"/>
+			</navPoint>
+			<navPoint id="navpoint134" playOrder="134">
+				<navLabel>
+					<text>Creation and incomprehensiblity</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-9"/>
+			</navPoint>
+			<navPoint id="navpoint135" playOrder="135">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-10"/>
+			</navPoint>
+			<navPoint id="navpoint136" playOrder="136">
+				<navLabel>
+					<text>Being creatures</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-11"/>
+			</navPoint>
+			<navPoint id="navpoint137" playOrder="137">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-12"/>
+			</navPoint>
+			<navPoint id="navpoint138" playOrder="138">
+				<navLabel>
+					<text>Addendum: Creation and creationism</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-13"/>
+			</navPoint>
+			<navPoint id="navpoint139" playOrder="139">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-14"/>
+			</navPoint>
+			<navPoint id="navpoint140" playOrder="140">
+				<navLabel>
+					<text>Notes</text>
+				</navLabel>
+				<content src="CTChristianDoc-12.html#toc_marker-13-15"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint141" playOrder="141">
+			<navLabel>
+				<text>8. Providence and Freedom</text>
+			</navLabel>
+			<content src="CTChristianDoc-13.html#toc_marker-14"/>
+			<navPoint id="navpoint142" playOrder="142">
+				<navLabel>
+					<text>The one who sustains</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-1"/>
+			</navPoint>
+			<navPoint id="navpoint143" playOrder="143">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-2"/>
+			</navPoint>
+			<navPoint id="navpoint144" playOrder="144">
+				<navLabel>
+					<text>The one who accompanies</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-3"/>
+			</navPoint>
+			<navPoint id="navpoint145" playOrder="145">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-4"/>
+			</navPoint>
+			<navPoint id="navpoint146" playOrder="146">
+				<navLabel>
+					<text>Concursus and freedom</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-5"/>
+			</navPoint>
+			<navPoint id="navpoint147" playOrder="147">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-6"/>
+			</navPoint>
+			<navPoint id="navpoint148" playOrder="148">
+				<navLabel>
+					<text>The one who steers</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-7"/>
+			</navPoint>
+			<navPoint id="navpoint149" playOrder="149">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-8"/>
+			</navPoint>
+			<navPoint id="navpoint150" playOrder="150">
+				<navLabel>
+					<text>Freedom, truth and love</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-9"/>
+			</navPoint>
+			<navPoint id="navpoint151" playOrder="151">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-10"/>
+			</navPoint>
+			<navPoint id="navpoint152" playOrder="152">
+				<navLabel>
+					<text>Providence, eschatology and discernment</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-11"/>
+			</navPoint>
+			<navPoint id="navpoint153" playOrder="153">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-12"/>
+			</navPoint>
+			<navPoint id="navpoint154" playOrder="154">
+				<navLabel>
+					<text>Providence in the world</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-13"/>
+			</navPoint>
+			<navPoint id="navpoint155" playOrder="155">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-14"/>
+			</navPoint>
+			<navPoint id="navpoint156" playOrder="156">
+				<navLabel>
+					<text>Asking for God’s help</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-15"/>
+			</navPoint>
+			<navPoint id="navpoint157" playOrder="157">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-13.html#toc_marker-14-16"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint158" playOrder="158">
+			<navLabel>
+				<text>9. Facing the End</text>
+			</navLabel>
+			<content src="CTChristianDoc-14.html#toc_marker-15"/>
+			<navPoint id="navpoint159" playOrder="159">
+				<navLabel>
+					<text>Facing the end</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-1"/>
+			</navPoint>
+			<navPoint id="navpoint160" playOrder="160">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-2"/>
+			</navPoint>
+			<navPoint id="navpoint161" playOrder="161">
+				<navLabel>
+					<text>Setting the world to rights</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-3"/>
+			</navPoint>
+			<navPoint id="navpoint162" playOrder="162">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-4"/>
+			</navPoint>
+			<navPoint id="navpoint163" playOrder="163">
+				<navLabel>
+					<text>Eschatology and discernment</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-5"/>
+			</navPoint>
+			<navPoint id="navpoint164" playOrder="164">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-6"/>
+			</navPoint>
+			<navPoint id="navpoint165" playOrder="165">
+				<navLabel>
+					<text>The four last things</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-7"/>
+			</navPoint>
+			<navPoint id="navpoint166" playOrder="166">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-14.html#toc_marker-15-8"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint167" playOrder="167">
+			<navLabel>
+				<text>10. Suffering and Love</text>
+			</navLabel>
+			<content src="CTChristianDoc-15.html#toc_marker-16"/>
+			<navPoint id="navpoint168" playOrder="168">
+				<navLabel>
+					<text>Suffering</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-1"/>
+			</navPoint>
+			<navPoint id="navpoint169" playOrder="169">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-2"/>
+			</navPoint>
+			<navPoint id="navpoint170" playOrder="170">
+				<navLabel>
+					<text>The problem of evil</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-3"/>
+			</navPoint>
+			<navPoint id="navpoint171" playOrder="171">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-4"/>
+			</navPoint>
+			<navPoint id="navpoint172" playOrder="172">
+				<navLabel>
+					<text>The standard conversation</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-5"/>
+			</navPoint>
+			<navPoint id="navpoint173" playOrder="173">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-6"/>
+			</navPoint>
+			<navPoint id="navpoint174" playOrder="174">
+				<navLabel>
+					<text>Changing the subject</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-7"/>
+			</navPoint>
+			<navPoint id="navpoint175" playOrder="175">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-8"/>
+			</navPoint>
+			<navPoint id="navpoint176" playOrder="176">
+				<navLabel>
+					<text>A different approach</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-9"/>
+			</navPoint>
+			<navPoint id="navpoint177" playOrder="177">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-10"/>
+			</navPoint>
+			<navPoint id="navpoint178" playOrder="178">
+				<navLabel>
+					<text>The God of those who suffer</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-11"/>
+			</navPoint>
+			<navPoint id="navpoint179" playOrder="179">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-15.html#toc_marker-16-12"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint180" playOrder="180">
+			<navLabel>
+				<text>11. Sin and Salvation</text>
+			</navLabel>
+			<content src="CTChristianDoc-16.html#toc_marker-17"/>
+			<navPoint id="navpoint181" playOrder="181">
+				<navLabel>
+					<text>What for, what from and how?</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-1"/>
+			</navPoint>
+			<navPoint id="navpoint182" playOrder="182">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-2"/>
+			</navPoint>
+			<navPoint id="navpoint183" playOrder="183">
+				<navLabel>
+					<text>Sin</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-3"/>
+			</navPoint>
+			<navPoint id="navpoint184" playOrder="184">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-4"/>
+			</navPoint>
+			<navPoint id="navpoint185" playOrder="185">
+				<navLabel>
+					<text>The power of sin</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-5"/>
+			</navPoint>
+			<navPoint id="navpoint186" playOrder="186">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-6"/>
+			</navPoint>
+			<navPoint id="navpoint187" playOrder="187">
+				<navLabel>
+					<text>Grace</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-7"/>
+			</navPoint>
+			<navPoint id="navpoint188" playOrder="188">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-8"/>
+			</navPoint>
+			<navPoint id="navpoint189" playOrder="189">
+				<navLabel>
+					<text>Salvation in Christ</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-9"/>
+			</navPoint>
+			<navPoint id="navpoint190" playOrder="190">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-10"/>
+			</navPoint>
+			<navPoint id="navpoint191" playOrder="191">
+				<navLabel>
+					<text>Sacrifice and substitution</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-11"/>
+			</navPoint>
+			<navPoint id="navpoint192" playOrder="192">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-12"/>
+			</navPoint>
+			<navPoint id="navpoint193" playOrder="193">
+				<navLabel>
+					<text>Transfiguring acceptance</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-13"/>
+			</navPoint>
+			<navPoint id="navpoint194" playOrder="194">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-16.html#toc_marker-17-14"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint195" playOrder="195">
+			<navLabel>
+				<text>12. Election and Rejection</text>
+			</navLabel>
+			<content src="CTChristianDoc-17.html#toc_marker-18"/>
+			<navPoint id="navpoint196" playOrder="196">
+				<navLabel>
+					<text>Who will be saved?</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-1"/>
+			</navPoint>
+			<navPoint id="navpoint197" playOrder="197">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-2"/>
+			</navPoint>
+			<navPoint id="navpoint198" playOrder="198">
+				<navLabel>
+					<text>Election, rejection and Christ</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-3"/>
+			</navPoint>
+			<navPoint id="navpoint199" playOrder="199">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-4"/>
+			</navPoint>
+			<navPoint id="navpoint200" playOrder="200">
+				<navLabel>
+					<text>Salvation and other religions</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-5"/>
+			</navPoint>
+			<navPoint id="navpoint201" playOrder="201">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-17.html#toc_marker-18-6"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint202" playOrder="202">
+			<navLabel>
+				<text>13. One and Catholic</text>
+			</navLabel>
+			<content src="CTChristianDoc-18.html#toc_marker-19"/>
+			<navPoint id="navpoint203" playOrder="203">
+				<navLabel>
+					<text>Any given Sunday</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-1"/>
+			</navPoint>
+			<navPoint id="navpoint204" playOrder="204">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-2"/>
+			</navPoint>
+			<navPoint id="navpoint205" playOrder="205">
+				<navLabel>
+					<text>Marks of the Church</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-3"/>
+			</navPoint>
+			<navPoint id="navpoint206" playOrder="206">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-4"/>
+			</navPoint>
+			<navPoint id="navpoint207" playOrder="207">
+				<navLabel>
+					<text>Unity and worship</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-5"/>
+			</navPoint>
+			<navPoint id="navpoint208" playOrder="208">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-6"/>
+			</navPoint>
+			<navPoint id="navpoint209" playOrder="209">
+				<navLabel>
+					<text>Called out in worship</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-7"/>
+			</navPoint>
+			<navPoint id="navpoint210" playOrder="210">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-8"/>
+			</navPoint>
+			<navPoint id="navpoint211" playOrder="211">
+				<navLabel>
+					<text>Sacraments</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-9"/>
+			</navPoint>
+			<navPoint id="navpoint212" playOrder="212">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-10"/>
+			</navPoint>
+			<navPoint id="navpoint213" playOrder="213">
+				<navLabel>
+					<text>What is the Eucharist?</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-11"/>
+			</navPoint>
+			<navPoint id="navpoint214" playOrder="214">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-12"/>
+			</navPoint>
+			<navPoint id="navpoint215" playOrder="215">
+				<navLabel>
+					<text>Baptism</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-13"/>
+			</navPoint>
+			<navPoint id="navpoint216" playOrder="216">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-14"/>
+			</navPoint>
+			<navPoint id="navpoint217" playOrder="217">
+				<navLabel>
+					<text>The Church catholic</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-15"/>
+			</navPoint>
+			<navPoint id="navpoint218" playOrder="218">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-16"/>
+			</navPoint>
+			<navPoint id="navpoint219" playOrder="219">
+				<navLabel>
+					<text>Ecumenism</text>
+				</navLabel>
+				<content src="CTChristianDoc-18.html#toc_marker-19-17"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint220" playOrder="220">
+			<navLabel>
+				<text>14. Apostolic and Holy</text>
+			</navLabel>
+			<content src="CTChristianDoc-19.html#toc_marker-20"/>
+			<navPoint id="navpoint221" playOrder="221">
+				<navLabel>
+					<text>Apostolicity</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-1"/>
+			</navPoint>
+			<navPoint id="navpoint222" playOrder="222">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-2"/>
+			</navPoint>
+			<navPoint id="navpoint223" playOrder="223">
+				<navLabel>
+					<text>Boundaries</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-3"/>
+			</navPoint>
+			<navPoint id="navpoint224" playOrder="224">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-4"/>
+			</navPoint>
+			<navPoint id="navpoint225" playOrder="225">
+				<navLabel>
+					<text>Embodiment: The Church as mother</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-5"/>
+			</navPoint>
+			<navPoint id="navpoint226" playOrder="226">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-6"/>
+			</navPoint>
+			<navPoint id="navpoint227" playOrder="227">
+				<navLabel>
+					<text>Witness: The mission-shaped Church</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-7"/>
+			</navPoint>
+			<navPoint id="navpoint228" playOrder="228">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-8"/>
+			</navPoint>
+			<navPoint id="navpoint229" playOrder="229">
+				<navLabel>
+					<text>The nature of evangelism</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-9"/>
+			</navPoint>
+			<navPoint id="navpoint230" playOrder="230">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-10"/>
+			</navPoint>
+			<navPoint id="navpoint231" playOrder="231">
+				<navLabel>
+					<text>Holiness</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-11"/>
+			</navPoint>
+			<navPoint id="navpoint232" playOrder="232">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-12"/>
+			</navPoint>
+			<navPoint id="navpoint233" playOrder="233">
+				<navLabel>
+					<text>Institution and fellowship</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-13"/>
+			</navPoint>
+			<navPoint id="navpoint234" playOrder="234">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-14"/>
+			</navPoint>
+			<navPoint id="navpoint235" playOrder="235">
+				<navLabel>
+					<text>Any given Sunday, again</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-15"/>
+			</navPoint>
+			<navPoint id="navpoint236" playOrder="236">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-19.html#toc_marker-20-16"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint237" playOrder="237">
+			<navLabel>
+				<text>15. Biblical Settlements</text>
+			</navLabel>
+			<content src="CTChristianDoc-20.html#toc_marker-21"/>
+			<navPoint id="navpoint238" playOrder="238">
+				<navLabel>
+					<text>Knowing Jesus: Imagination</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-1"/>
+			</navPoint>
+			<navPoint id="navpoint239" playOrder="239">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-2"/>
+			</navPoint>
+			<navPoint id="navpoint240" playOrder="240">
+				<navLabel>
+					<text>Knowing Jesus: Life</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-3"/>
+			</navPoint>
+			<navPoint id="navpoint241" playOrder="241">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-4"/>
+			</navPoint>
+			<navPoint id="navpoint242" playOrder="242">
+				<navLabel>
+					<text>A biblical kaleidoscope</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-5"/>
+			</navPoint>
+			<navPoint id="navpoint243" playOrder="243">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-6"/>
+			</navPoint>
+			<navPoint id="navpoint244" playOrder="244">
+				<navLabel>
+					<text>Biblical settlements</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-7"/>
+			</navPoint>
+			<navPoint id="navpoint245" playOrder="245">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-8"/>
+			</navPoint>
+			<navPoint id="navpoint246" playOrder="246">
+				<navLabel>
+					<text>The multiplicity of settlements</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-9"/>
+			</navPoint>
+			<navPoint id="navpoint247" playOrder="247">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-10"/>
+			</navPoint>
+			<navPoint id="navpoint248" playOrder="248">
+				<navLabel>
+					<text>Deciding between settlements</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-11"/>
+			</navPoint>
+			<navPoint id="navpoint249" playOrder="249">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-12"/>
+			</navPoint>
+			<navPoint id="navpoint250" playOrder="250">
+				<navLabel>
+					<text>A Trinitarian settlement</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-13"/>
+			</navPoint>
+			<navPoint id="navpoint251" playOrder="251">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-20.html#toc_marker-21-14"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint252" playOrder="252">
+			<navLabel>
+				<text>16. Trinitarian Reading</text>
+			</navLabel>
+			<content src="CTChristianDoc-21.html#toc_marker-22"/>
+			<navPoint id="navpoint253" playOrder="253">
+				<navLabel>
+					<text>Reading around Jesus: Witness</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-1"/>
+			</navPoint>
+			<navPoint id="navpoint254" playOrder="254">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-2"/>
+			</navPoint>
+			<navPoint id="navpoint255" playOrder="255">
+				<navLabel>
+					<text>Reading around Jesus: Imagination and life</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-3"/>
+			</navPoint>
+			<navPoint id="navpoint256" playOrder="256">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-4"/>
+			</navPoint>
+			<navPoint id="navpoint257" playOrder="257">
+				<navLabel>
+					<text>Jesus in the Hebrew Scriptures?</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-5"/>
+			</navPoint>
+			<navPoint id="navpoint258" playOrder="258">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-6"/>
+			</navPoint>
+			<navPoint id="navpoint259" playOrder="259">
+				<navLabel>
+					<text>Reading around Jesus: Unity and diversity</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-7"/>
+			</navPoint>
+			<navPoint id="navpoint260" playOrder="260">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-8"/>
+			</navPoint>
+			<navPoint id="navpoint261" playOrder="261">
+				<navLabel>
+					<text>Reading around Jesus: An example</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-9"/>
+			</navPoint>
+			<navPoint id="navpoint262" playOrder="262">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-10"/>
+			</navPoint>
+			<navPoint id="navpoint263" playOrder="263">
+				<navLabel>
+					<text>Reading in the Spirit</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-11"/>
+			</navPoint>
+			<navPoint id="navpoint264" playOrder="264">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-12"/>
+			</navPoint>
+			<navPoint id="navpoint265" playOrder="265">
+				<navLabel>
+					<text>What is tradition?</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-13"/>
+			</navPoint>
+			<navPoint id="navpoint266" playOrder="266">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-14"/>
+			</navPoint>
+			<navPoint id="navpoint267" playOrder="267">
+				<navLabel>
+					<text>Reading on the way to the Father: Experience</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-15"/>
+			</navPoint>
+			<navPoint id="navpoint268" playOrder="268">
+				<navLabel>
+					<text>Key points</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-16"/>
+			</navPoint>
+			<navPoint id="navpoint269" playOrder="269">
+				<navLabel>
+					<text>Reading on the way to the Father: Vulnerability</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-17"/>
+			</navPoint>
+			<navPoint id="navpoint270" playOrder="270">
+				<navLabel>
+					<text>Key point</text>
+				</navLabel>
+				<content src="CTChristianDoc-21.html#toc_marker-22-18"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint271" playOrder="271">
+			<navLabel>
+				<text>Sources and Acknowledgements for the Plate Section</text>
+			</navLabel>
+			<content src="CTChristianDoc-22.html#toc_marker-23"/>
+		</navPoint>
+		<navPoint id="navpoint272" playOrder="272">
+			<navLabel>
+				<text>Plate Section</text>
+			</navLabel>
+			<content src="CTChristianDoc-23.html#toc_marker-24"/>
+		</navPoint>
+	</navMap>
+</ncx>

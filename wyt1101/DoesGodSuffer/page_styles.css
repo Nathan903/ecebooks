@@ -1,0 +1,28 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "FreeSerif";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/FreeSerif.ttf);
+}
+@font-face {
+  font-family: "FreeSerif";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/FreeSerifBold.ttf);
+}
+@font-face {
+  font-family: "FreeSerif";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/FreeSerifBoldItalic.ttf);
+}
+@font-face {
+  font-family: "FreeSerif";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/FreeSerifItalic.ttf);
+}

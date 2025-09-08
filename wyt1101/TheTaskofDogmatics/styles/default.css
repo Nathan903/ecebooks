@@ -1,0 +1,605 @@
+/*Page Margins*/
+@page {
+margin-bottom: 1em;
+margin-left: 1em;
+margin-right: 1em;
+margin-top: 1em;
+}
+/*End of Page Margins*/
+
+/*Image*/
+/*Image wrapper */
+div.image {
+text-align: center;
+margin: 0em 0 0em 0;
+}
+div.image1 {
+text-align: center;
+margin: 1em 0 1em 0;
+}
+div.image2 {
+text-align: left;
+margin: 5em 0em 0;
+}
+
+div.image3 {
+text-align: center;
+margin: .5em 0em 2em 0;
+}
+/*Image caption with div image class */
+div.image p {
+font-size: 0.8em;
+margin: 0.5em auto 0em auto;
+text-indent: 0;
+text-align: left;
+word-wrap:break-word;
+}
+div.image img {
+max-width:100%;
+}
+/*End of Image Wrapper*/
+
+/* coverpage */
+.coverpage {
+vertical-align: middle;
+text-align: center;
+background-color: white;
+margin: 0em;
+}
+.coverpage img {
+max-width:100%;
+margin: 0em;
+}
+/*End of Coverpage*/
+
+/* title page */
+/*title page wrapper */
+.titlepage {
+text-align: center;
+margin: 0em auto auto auto;
+padding: 0em 0 1.3em 0;
+text-align: center;
+}
+.titlepage .title {
+font-size: 1.8em;
+margin: 0% 0 .3em 0;
+text-align: center;
+font-weight:bold;
+/*color:#;*/
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.titlepage .subtitle {
+font-size: 1.4em;
+text-align: center;
+margin: 0em 0 0 0;
+font-weight:bold;
+/*color:#;*/
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.titlepage .author {
+margin: 0em 0 0 0;
+font-size: 1.2em;
+text-align: center;
+font-weight:normal;
+/*color:#;*/
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.titlepage .illustrator {
+font-size: 1.2em;
+text-align: center;
+margin: 0em 0 0 0;
+font-weight:bold;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+/*End of titlepage*/
+
+/* toc */
+div.toc > h1 {
+text-align: center;
+font-size: 1.8em;
+margin: 1em 0 2em 0;
+font-weight:normal;
+}
+div.toc > p.level1 {
+text-indent: -1em;
+margin: 1em 0 .3em 2.5em;
+text-align: left;
+}
+div.toc > p.level1a {
+text-indent: -1.6em;
+margin: 1em 0 .3em 2.5em;
+text-align: left;
+}
+div.toc > p.level2 {
+text-indent: 0em;
+margin: 0em 0 .3em 2.5em;
+text-align: left;
+}
+div.toc > p.level3 {
+text-indent: 0em;
+margin: 0 0 .3em 0;
+text-align: left;
+}
+div.toc > p.level3a {
+text-indent: 0em;
+margin: 1em 0 .3em 0;
+text-align: left;
+}
+/*End of toc*/
+
+
+/* Copyright */
+.copy1
+{
+display: block;
+font-size: 0.5em;
+margin-top: 1em;
+margin-bottom: 0em;
+text-align: justify;
+text-indent: 0em;
+}
+.copy1a
+{
+display: block;
+font-size: 0.5em;
+margin-top: 0.3em;
+margin-bottom: 0em;
+text-align: justify;
+text-indent: 0em;
+}
+.copy2
+{
+display: block;
+font-size: 0.5em;
+margin-top: 0.3em;
+margin-bottom: 1em;
+text-align: left;
+text-indent: 0em;
+}
+.isbn
+{
+text-indent: 0em;
+display: block;
+font-size: 0.5em;
+margin-top: 0em;
+margin-bottom: 1em;
+text-align: left;
+}
+.other
+{
+display: block;
+font-size: 0.5em;
+margin-top: .9em;
+margin-bottom: 0.2em;
+text-align: left;
+text-indent: 0em;
+}
+.libraryofcongress
+{
+display: block;
+font-size: 0.5em;
+margin-top: .3em;
+margin-bottom: .3em;
+text-indent: -1.5em;
+margin-left: 1.5em;
+text-align: justify;
+}
+.libraryofcongress1
+{
+display: block;
+font-size: 0.5em;
+margin-top: .3em;
+margin-bottom: 1em;
+text-indent: -1.5em;
+margin-left: 1.5em;
+text-align: justify;
+}
+/*End of Copyright */
+
+/*Headings
+This is the default styling of all headings to deal with issues such as page breaks splitting headings and hyphenation issues.*/
+h1, h2, h3, h4, h5, h6 {
+	 page-break-after:avoid;
+	 page-break-inside: avoid;
+     -webkit-hyphens: none !important;
+     hyphens: none !important;
+     /*color:#000;*/ /* This color "black" will apply to all heads unless a color is applied to a class */
+}
+.dedication, .forward, .chapter, .endnotes, .glossary, .publisher, .bibliography{
+text-align: left;
+}
+.copyright h1, .dedication h1, .forward h1, .chapter h1, .endnotes h1, .glossary h1, .publisher h1, .bibliography h1 {
+font-size: 1.8em;
+margin: 1em 0 1em 0;
+padding: .2em 0 0 0;
+text-align: center;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+h1.chapter1 {
+font-size: 1.1em;
+margin: 1em 0 0em 0;
+padding: .2em 0 0 0;
+text-align: center;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+h1.chapter2{
+font-size: 1.8em;
+margin: 1.2em 0 0.4em 0;
+padding: .2em 0 0 0;
+text-align: center;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+
+.copyright h2, .dedication h2, .forward h2, .section h2, .chapter h2, .glossary h2, .publisher h2, .titlepage h2 {
+font-size: 1.4em;
+margin: 1em 0 0em 0;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.copyright h3, .dedication h3, .forward h3, .section h3, .chapter h3, .glossary h3, .publisher h3, .titlepage h3 {
+font-size: 1.1em;
+margin: .7em 0 .3em 0;
+padding: 0em;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.copyright h4, .dedication h4, .forward h4, .section h4, .chapter h4, .glossary h4, .publisher h4, .titlepage h4 {
+font-size: 1em;
+margin: 0em 0 0.7em 0;
+text-align: center;
+padding: 0em;
+font-weight:normal;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+/*End of Headings*/
+
+/* part/section divider */
+.section {
+text-align: center;
+margin: 8% auto auto auto;
+padding: 2em 0 3em 0;
+}
+.section h1 {
+font-size: 1.8em;
+text-align: center;
+font-weight:bold;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+.section h2 {
+font-size: 1.4em;
+text-align: center;
+font-weight:bold;
+word-wrap:break-word;
+-webkit-hyphens:none;
+hyphens:none;
+}
+/*End of part/section divider */
+
+	
+/*Para Styles*/
+/*Change below properties as required in source file*/
+/*default para style with 0 indent*/
+p {
+font-size: small;
+text-indent: 1.5em;
+margin: 0em 0 0 0;
+word-wrap:break-word;
+text-align: justify;
+}
+
+/*This style will leave 1st para and indent rest of the para */
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0;
+}
+
+/*first paragraph after h2 will not intent */
+h2+p {text-indent:0;}
+
+/*This style will apply no-indent style in para*/
+p.noind {
+  text-indent: 0em;
+  margin-top: 0;
+}
+
+p.h5 {
+  text-indent: 0em;
+  margin: 1em 0 0.4em 0;
+}
+p.footnote {
+  text-indent: 1.5em;
+  margin: .3em 0 0em 0;
+text-align: left;
+}
+p.index {
+  text-indent: 0em;
+  margin: 1.5em 0 .5em 0;
+}
+p.center_aa {
+text-align: center !important;
+font-size: small;
+margin-top: 2em;
+margin-bottom: 0em;
+}
+p.noind_aaa {
+ text-indent: 0em;
+ margin-top: 1em;
+ font-size: small;
+ margin-bottom: 0em;
+ margin-left:0em;
+ text-indent:0em; 
+ text-align: justify !important;
+}
+p.tx22 {
+font-size: 0.75em;
+text-align: left;
+text-indent: 0em;
+margin: 0.3em 0em 0.2em 0em;
+}
+p.tx33 {
+font-size: 0.75em;
+text-align: right;
+text-indent: 0em;
+margin: -1.4em 3em 0em 0.2em;
+margin-right:35%;
+}
+p.dex1 {
+font-size: small;
+text-align: justify;
+text-indent: -1em;
+margin: 0em 0em 0em 1em;
+}
+p.dex2 {
+font-size: small;
+text-align: justify;
+text-indent: 0em;
+margin: 0 0em 0em 2em;
+}
+
+
+/*center para text*/
+p.center {
+text-align: center !important;
+text-indent: 0 !important;
+margin: auto;
+word-wrap:break-word;
+}
+p.centeraa {
+text-align: center !important;
+text-indent: 0 !important;
+margin: 15% 0 0 0;
+word-wrap:break-word;
+}
+p.centerbb {
+text-align: center !important;
+text-indent: 0 !important;
+margin: .7em 4em 0 4em;
+word-wrap:break-word;
+}
+p.center4 {
+text-align: center !important;
+text-indent: 0 !important;
+margin: auto;
+font-size: 1.3em;
+word-wrap:break-word;
+}
+/* bibliography */
+.bibliography p{
+padding-left: 1em;
+margin-bottom: 0%;
+text-indent: -1em;
+word-wrap:break-word;
+}
+/*align para to left or right*/
+.left {
+text-align:justify;
+text-indent: -1.5em;
+margin: 0em 0em 0.3em 1.5em;
+}
+.right {
+text-align:right;
+margin: 1.5em 0em 0.3em 0em;
+}
+.right1 {
+text-align:right;
+margin: 0em 1em 2em 0em;
+}
+/*End of Para Styles*/
+
+/*Extract/Blockquote*/
+blockquote {
+text-align: left !important;
+text-indent: 0 !important;
+margin: .7em 1em 0.7em 1em !important;
+word-wrap:break-word !important;
+}
+blockquote p.blo {
+font-size: .75em !important;
+text-align: justify !important;
+text-indent: 0 !important;
+margin: 1em 1em 1em 1em !important;
+word-wrap:break-word !important;
+}
+blockquote p.blo3 {
+font-size: .75em !important;
+text-align: justify !important;
+text-indent: 0 !important;
+margin: 0em 1em 0em 2em !important;
+word-wrap:break-word !important;
+}
+blockquote p.blo3a {
+font-size: .75em !important;
+text-align: justify !important;
+text-indent: 0 !important;
+margin: 1em 1em 0.4em 1em !important;
+word-wrap:break-word !important;
+}
+
+blockquote p.bloa {
+font-size: .75em !important;
+text-align: justify !important;
+text-indent: 0 !important;
+margin: 0em 1em 0em 1em !important;
+word-wrap:break-word !important;
+}
+blockquote p.blob {
+font-size: .75em !important;
+text-align: justify !important;
+text-indent: 0 !important;
+margin: 0em 1em 0em 2em !important;
+word-wrap:break-word !important;
+}
+p.handwritten {
+font-style: italic;
+margin: .5em auto .5em auto;
+width: 85%;
+word-wrap:break-word;
+}
+/* For extracts that represent text messages, computer text, etc..: */
+.code p {
+font-family: "Courier";
+margin: 1em auto 1em auto;
+width: 85%;
+text-indent: 0;
+word-wrap:break-word;
+}
+/*End of Extract/Blockquote */
+
+/* lists */
+ol {
+margin: .2em 0 1em 0;
+font-size: small;
+}
+ul {
+margin: .2em 0 1em 0;
+font-size: small;
+}
+/*End of List*/
+
+/* table */
+/* tables should only be used for displaying data. Please do not use tables to layout images */
+table {
+width: 98%;
+border: none;
+margin: 1em auto;
+border-collapse:collapse;
+font-size: small;
+}
+
+td {
+padding: .3em;
+text-align: left;
+border: none;
+word-wrap:break-word;
+-webkit-hyphens:none;
+font-size: small;
+hyphens:none;
+}
+/*End of Table*/
+
+/*Box*/
+.box1 {
+
+border: thin solid black;
+width: 80%;
+padding: .5em 1em .5em 1em;
+margin: 1em !important;
+word-wrap:break-word;
+}
+/*.box2 {}*/
+/*.box3 {}*/
+/*.box4 {}*/
+
+/*End of Box*/
+
+/*Miscellaneous*/
+
+a {
+text-decoration: none;
+}
+.underline {
+text-decoration: underline;
+}
+.smallcaps {
+font-variant: small-caps;
+text-transform: lowercase;
+}
+.dcap  {
+display:  inline;
+padding-top: 8px;
+float: left;
+line-height: .5em;
+font-size: 28pt;
+margin-right: .05em;
+}
+.line
+{
+border-bottom: thin solid black;
+margin-top: 0.5em;
+margin-bottom: 0.3em;
+text-indent: 0em;
+}
+.line1
+{
+border-bottom: thin solid black;
+margin-top: 0.5em;
+margin-bottom: 0.3em;
+text-indent: 0em;
+}
+
+.line2
+{
+border-bottom: thin solid black;
+margin: 2.5em 45% .5em 0em;
+text-indent: 0em;
+}
+.line3
+{
+border-bottom: 3px solid black;
+margin: 1em 40% 1em 40%;
+text-align: center;
+}
+.line3a
+{
+border-bottom: 3px solid black;
+margin: 1em 40% 1em 40%;
+text-indent: 0em;
+}
+span.h4line{
+border-top:thin solid black;
+margin:0em 0em 0em 0em;
+padding:0.3em 0em 0em 0em;
+}
+
+
+
+span.h1line{
+border-bottom:thin solid black;
+padding:0em 0em .2em 0em;
+margin:0em 0em 0em 0em;
+}

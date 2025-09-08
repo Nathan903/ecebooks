@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:title>Does God Suffer?</dc:title>
+    <dc:creator opf:file-as="Weinandy, Thomas;" opf:role="aut">Weinandy, Thomas;</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (8.10.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>University of Notre Dame Press</dc:publisher>
+    <dc:date>2016-09-15T04:00:00+00:00</dc:date>
+    <dc:rights>All Rights Reserved</dc:rights>
+    <meta name="calibre:timestamp" content="2025-09-07T05:38:14.516394+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">837a3400-e982-4983-8f4d-63f83e4ced98</dc:identifier>
+    <dc:identifier opf:scheme="calibre">837a3400-e982-4983-8f4d-63f83e4ced98</dc:identifier>
+    <meta name="calibre:title_sort" content="Does God Suffer?"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cover" href="OEBPS/xhtml/01_Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Halftitle" href="OEBPS/xhtml/02_Halftitle.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Author" href="OEBPS/xhtml/03_Author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Title" href="OEBPS/xhtml/04_Title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Copyright" href="OEBPS/xhtml/05_Copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Contents" href="OEBPS/xhtml/06_Contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Preface" href="OEBPS/xhtml/07_Preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter01" href="OEBPS/xhtml/08_Chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter02" href="OEBPS/xhtml/09_Chapter02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter032" href="OEBPS/xhtml/10_Chapter03_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter031" href="OEBPS/xhtml/10_Chapter03_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter04" href="OEBPS/xhtml/11_Chapter04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter05" href="OEBPS/xhtml/12_Chapter05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter06" href="OEBPS/xhtml/13_Chapter06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter07" href="OEBPS/xhtml/14_Chapter07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter08" href="OEBPS/xhtml/15_Chapter08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter09" href="OEBPS/xhtml/16_Chapter09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter10" href="OEBPS/xhtml/17_Chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Conclusion" href="OEBPS/xhtml/18_Conclusion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bibliography" href="OEBPS/xhtml/19_Bibliography.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Index01" href="OEBPS/xhtml/20_Index01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Index02" href="OEBPS/xhtml/21_Index02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pt" href="OEBPS/styles/page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" fallback="Cover"/>
+    <item id="font" href="OEBPS/fonts/FreeSerif.ttf" media-type="application/x-font-truetype"/>
+    <item id="font1" href="OEBPS/fonts/FreeSerifBold.ttf" media-type="application/x-font-truetype"/>
+    <item id="font2" href="OEBPS/fonts/FreeSerifBoldItalic.ttf" media-type="application/x-font-truetype"/>
+    <item id="font3" href="OEBPS/fonts/FreeSerifItalic.ttf" media-type="application/x-font-truetype"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page-map" href="page-map.xml" media-type="application/oebps-page-map+xml"/>
+  </manifest>
+  <spine toc="ncx" page-map="page-map">
+    <itemref idref="titlepage"/>
+    <itemref idref="Cover"/>
+    <itemref idref="Halftitle"/>
+    <itemref idref="Author"/>
+    <itemref idref="Title"/>
+    <itemref idref="Copyright"/>
+    <itemref idref="Contents"/>
+    <itemref idref="Preface"/>
+    <itemref idref="Chapter01"/>
+    <itemref idref="Chapter02"/>
+    <itemref idref="Chapter032"/>
+    <itemref idref="Chapter031"/>
+    <itemref idref="Chapter04"/>
+    <itemref idref="Chapter05"/>
+    <itemref idref="Chapter06"/>
+    <itemref idref="Chapter07"/>
+    <itemref idref="Chapter08"/>
+    <itemref idref="Chapter09"/>
+    <itemref idref="Chapter10"/>
+    <itemref idref="Conclusion"/>
+    <itemref idref="Bibliography"/>
+    <itemref idref="Index01"/>
+    <itemref idref="Index02"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="OEBPS/xhtml/06_Contents.xhtml" title="Table of Contents"/>
+    <reference type="text" href="OEBPS/xhtml/01_Cover.xhtml" title="Cover Page"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

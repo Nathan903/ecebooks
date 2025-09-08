@@ -1,0 +1,5 @@
+.hidden{display: none;}
+p.text-HI{text-indent : -30px; padding :0px 0px 0px 0em; margin : 0px 0px 0px 30px;}
+p.text-indent-HI{text-indent : -30px; padding :0px 0px 0px 0em; margin : 0px 0px 0px 60px;}
+p.text-double-indent-HI {text-indent : -30px; margin : 0px 0px 0px 90px; padding:0px 0px 0px 0em;}
+p.text-triple-indent-HI {text-indent : -30px;margin : 0px 0px 0px 120px;padding:0px 0px 0px 0em;}

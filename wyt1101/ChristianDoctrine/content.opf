@@ -1,0 +1,91 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<meta content="Adobe InDesign" name="generator"/>
+		<meta content="cover.jpg" name="cover"/>
+		<dc:title>SCM Core Text Christian Doctrine</dc:title>
+		<dc:creator>Mike Higton;</dc:creator>
+		<dc:subject/>
+		<dc:description/>
+		<dc:publisher>Lightning Source Inc. (Tier 1)</dc:publisher>
+		<dc:date>2011-08-22</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:language>eng</dc:language>
+		<dc:language>en-US</dc:language>
+		<dc:identifier id="bookid">9780334040194</dc:identifier>
+		<dc:identifier>urn:uuid:F88CA9F8-5F50-45E7-993B-60417309E6B9</dc:identifier>
+	</metadata>
+	<manifest>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="template.css" id="css" media-type="text/css"/>
+		<item href="CTChristianDoc.html" id="CTChristianDoc" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-1.html" id="CTChristianDoc-1" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-2.html" id="CTChristianDoc-2" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-3.html" id="CTChristianDoc-3" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-4.html" id="CTChristianDoc-4" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-5.html" id="CTChristianDoc-5" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-6.html" id="CTChristianDoc-6" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-7.html" id="CTChristianDoc-7" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-8.html" id="CTChristianDoc-8" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-9.html" id="CTChristianDoc-9" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-10.html" id="CTChristianDoc-10" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-11.html" id="CTChristianDoc-11" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-12.html" id="CTChristianDoc-12" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-13.html" id="CTChristianDoc-13" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-14.html" id="CTChristianDoc-14" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-15.html" id="CTChristianDoc-15" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-16.html" id="CTChristianDoc-16" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-17.html" id="CTChristianDoc-17" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-18.html" id="CTChristianDoc-18" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-19.html" id="CTChristianDoc-19" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-20.html" id="CTChristianDoc-20" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-21.html" id="CTChristianDoc-21" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-22.html" id="CTChristianDoc-22" media-type="application/xhtml+xml"/>
+		<item href="CTChristianDoc-23.html" id="CTChristianDoc-23" media-type="application/xhtml+xml"/>
+		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+		<item href="images/pic1_fmt.jpeg" id="pic1_fmt.jpeg" media-type="image/jpeg"/>
+		<item href="images/pic2_fmt.png" id="pic2_fmt.png" media-type="image/png"/>
+		<item href="images/pic3_fmt.jpeg" id="pic3_fmt.jpeg" media-type="image/jpeg"/>
+		<item href="images/pic4_fmt.png" id="pic4_fmt.png" media-type="image/png"/>
+		<item href="images/pic5_fmt.png" id="pic5_fmt.png" media-type="image/png"/>
+		<item href="images/pic6_fmt.png" id="pic6_fmt.png" media-type="image/png"/>
+		<item href="images/pic7_fmt.jpeg" id="pic7_fmt.jpeg" media-type="image/jpeg"/>
+		<item href="images/SCM%20press_fmt.gif" id="SCM-20press_fmt.gif" media-type="image/gif"/>
+		
+		
+	<item href="cover-EPUB2.xhtml" id="cover1" media-type="application/xhtml+xml"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover1"/>
+		<itemref idref="CTChristianDoc"/>
+		<itemref idref="CTChristianDoc-1"/>
+		<itemref idref="CTChristianDoc-2"/>
+		<itemref idref="CTChristianDoc-3"/>
+		<itemref idref="CTChristianDoc-4"/>
+		<itemref idref="CTChristianDoc-5"/>
+		<itemref idref="CTChristianDoc-6"/>
+		<itemref idref="CTChristianDoc-7"/>
+		<itemref idref="CTChristianDoc-8"/>
+		<itemref idref="CTChristianDoc-9"/>
+		<itemref idref="CTChristianDoc-10"/>
+		<itemref idref="CTChristianDoc-11"/>
+		<itemref idref="CTChristianDoc-12"/>
+		<itemref idref="CTChristianDoc-13"/>
+		<itemref idref="CTChristianDoc-14"/>
+		<itemref idref="CTChristianDoc-15"/>
+		<itemref idref="CTChristianDoc-16"/>
+		<itemref idref="CTChristianDoc-17"/>
+		<itemref idref="CTChristianDoc-18"/>
+		<itemref idref="CTChristianDoc-19"/>
+		<itemref idref="CTChristianDoc-20"/>
+		<itemref idref="CTChristianDoc-21"/>
+		<itemref idref="CTChristianDoc-22"/>
+		<itemref idref="CTChristianDoc-23"/>
+	</spine>
+	<guide>
+	<reference href="CTChristianDoc-1.html#toc_marker-2" title="Table of Contents" type="toc"/>
+	<reference href="CTChristianDoc-3.html#toc_marker-4" title="Introduction" type="text"/>
+    </guide>
+</package>

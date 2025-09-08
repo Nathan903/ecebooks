@@ -1,0 +1,56 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="bookid" version="2.0">
+	<metadata>
+		<meta content="Adobe InDesign" name="generator"/>
+		<meta content="cover-image" name="cover"/>
+		<dc:title>Holiness</dc:title>
+		<dc:creator>John Webster;</dc:creator>
+		<dc:subject/>
+		<dc:description/>
+		<dc:publisher>Lightning Source Inc. (Tier 2)</dc:publisher>
+		<dc:date>2021-04-30</dc:date>
+		<dc:source/>
+		<dc:relation/>
+		<dc:coverage/>
+		<dc:rights/>
+		<dc:language>eng</dc:language>
+		<dc:identifier id="bookid">0 334 02895 7</dc:identifier>
+		<dc:identifier>urn:uuid:93E2E284-F046-4360-AA1B-596B79A0F5F3</dc:identifier>
+	</metadata>
+	<manifest>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="template.css" id="css" media-type="text/css"/>
+<item href="notmobi.css" id="notmobicsss" media-type="text/css"/>
+<item href="cover.html" id="html-cover" media-type="application/xhtml+xml"/>
+		<item href="Holiness.html" id="Holiness" media-type="application/xhtml+xml"/>
+		<item href="Holiness-1.html" id="Holiness-1" media-type="application/xhtml+xml"/>
+		<item href="Holiness-2.html" id="Holiness-2" media-type="application/xhtml+xml"/>
+		<item href="Holiness-3.html" id="Holiness-3" media-type="application/xhtml+xml"/>
+		<item href="Holiness-4.html" id="Holiness-4" media-type="application/xhtml+xml"/>
+		<item href="Holiness-5.html" id="Holiness-5" media-type="application/xhtml+xml"/>
+		<item href="Holiness-6.html" id="Holiness-6" media-type="application/xhtml+xml"/>
+		<item href="Holiness-7.html" id="Holiness-7" media-type="application/xhtml+xml"/>
+		<item href="Holiness-8.html" id="Holiness-8" media-type="application/xhtml+xml"/>
+		<item href="Holiness-9.html" id="Holiness-9" media-type="application/xhtml+xml"/>
+		<item href="images/holinesscover.jpg" id="cover-image" media-type="image/jpeg"/>
+		<item href="images/SCM_press_fmt_fmt.gif" id="SCM_press_fmt_fmt.gif" media-type="image/gif"/>
+									</manifest>
+	<spine toc="ncx">
+
+<itemref idref="html-cover" linear="no"/>
+		<itemref idref="Holiness"/>
+		<itemref idref="Holiness-1"/>
+		<itemref idref="Holiness-2"/>
+		<itemref idref="Holiness-3"/>
+		<itemref idref="Holiness-4"/>
+		<itemref idref="Holiness-5"/>
+		<itemref idref="Holiness-6"/>
+		<itemref idref="Holiness-7"/>
+		<itemref idref="Holiness-8"/>
+		<itemref idref="Holiness-9"/>
+	</spine>
+<guide>
+<reference href="cover.html" title="Cover Image" type="cover"/>
+<reference href="Holiness-2.html" title="Table of Contents" type="toc"/>
+<reference href="Holiness-3.html" title="Preface" type="text"/>
+</guide>
+</package>

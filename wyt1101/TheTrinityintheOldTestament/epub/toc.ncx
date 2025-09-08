@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="8944e72a-71e3-4136-8557-0dad435a7833"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.13.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Oxford Handbook of the Trinity</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="index_split_000.html#p2"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>List of Illustrations</text>
+      </navLabel>
+      <content src="index_split_000.html#p4"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Common Abbreviations</text>
+      </navLabel>
+      <content src="index_split_000.html#p5"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Contributors</text>
+      </navLabel>
+      <content src="index_split_000.html#p8"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="index_split_000.html#p15"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Part I: The Trinity in Scripture</text>
+      </navLabel>
+      <content src="index_split_000.html#p27"/>
+      <navPoint id="num_7" playOrder="6" class="chapter">
+        <navLabel>
+          <text>1: The Canonization of Scripture in the Context of Trinitarian Doctrine</text>
+        </navLabel>
+        <content src="index_split_000.html#p27"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="7" class="chapter">
+        <navLabel>
+          <text>2: The Trinity in the Old Testament</text>
+        </navLabel>
+        <content src="index_split_000.html#p40"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="8" class="chapter">
+        <navLabel>
+          <text>3: The Trinity in the Letters of St. Paul and Hebrews</text>
+        </navLabel>
+        <content src="index_split_000.html#p54"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="9" class="chapter">
+        <navLabel>
+          <text>4: The Trinity in the Synoptic Gospels and Acts</text>
+        </navLabel>
+        <content src="index_split_001.html#p69"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="10" class="chapter">
+        <navLabel>
+          <text>5: The Trinity in the Johannine Literature</text>
+        </navLabel>
+        <content src="index_split_001.html#p83"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="11" class="chapter">
+        <navLabel>
+          <text>6: Exegesis and the Early Christian Doctrine of the Trinity</text>
+        </navLabel>
+        <content src="index_split_001.html#p94"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_13" playOrder="11" class="chapter">
+      <navLabel>
+        <text>Part II: Patristic Witnesses to the Trinitarian Faith</text>
+      </navLabel>
+      <content src="index_split_001.html#p94"/>
+      <navPoint id="num_14" playOrder="12" class="chapter">
+        <navLabel>
+          <text>7: The Trinity in the Ante-Nicene Fathers</text>
+        </navLabel>
+        <content src="index_split_001.html#p106"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="13" class="chapter">
+        <navLabel>
+          <text>8: The Trinity in the Fourth Century Fathers</text>
+        </navLabel>
+        <content src="index_split_002.html#p122"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="14" class="chapter">
+        <navLabel>
+          <text>9: Augustine on the Trinit</text>
+        </navLabel>
+        <content src="index_split_002.html#p136"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="15" class="chapter">
+        <navLabel>
+          <text>10: Late Patristic Developments on the Trinity in the East</text>
+        </navLabel>
+        <content src="index_split_002.html#p152"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_18" playOrder="16" class="chapter">
+      <navLabel>
+        <text>Part III: Medieval Appropriations of the Trinitarian Faith</text>
+      </navLabel>
+      <content src="index_split_002.html#p167"/>
+      <navPoint id="num_19" playOrder="16" class="chapter">
+        <navLabel>
+          <text>11: Trinitarian Theology from Alcuin to Anselm</text>
+        </navLabel>
+        <content src="index_split_002.html#p167"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="17" class="chapter">
+        <navLabel>
+          <text>12: Scholastic Reasons, Monastic Meditations and Victorine Conciliations</text>
+        </navLabel>
+        <content src="index_split_002.html#p181"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="18" class="chapter">
+        <navLabel>
+          <text>13: Franciscan and Dominican Trinitarian theology (13th Century)</text>
+        </navLabel>
+        <content src="index_split_003.html#p195"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="19" class="chapter">
+        <navLabel>
+          <text>14: Medieval Trinitarian Theology from the late Thirteenth to the Fifteenth Centuries</text>
+        </navLabel>
+        <content src="index_split_003.html#p210"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="20" class="chapter">
+        <navLabel>
+          <text>15: The Development of the Trinity Doctrine in Byzantium (9th-15th Centuries)</text>
+        </navLabel>
+        <content src="index_split_003.html#p223"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_24" playOrder="21" class="chapter">
+      <navLabel>
+        <text>Part IV: The Reformation to the 20th Century</text>
+      </navLabel>
+      <content src="index_split_004.html#p239"/>
+      <navPoint id="num_25" playOrder="21" class="chapter">
+        <navLabel>
+          <text>16: The Trinity in the Reformers</text>
+        </navLabel>
+        <content src="index_split_004.html#p239"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="22" class="chapter">
+        <navLabel>
+          <text>17: The Trinity in the Early Modern Era (ca. 1550-1770)</text>
+        </navLabel>
+        <content src="index_split_004.html#p253"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="23" class="chapter">
+        <navLabel>
+          <text>18: The Trinity in Kant, Hegel, and Schelling</text>
+        </navLabel>
+        <content src="index_split_004.html#p269"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="24" class="chapter">
+        <navLabel>
+          <text>19: Nineteenth Century Protestant Doctrines of the Trinity</text>
+        </navLabel>
+        <content src="index_split_004.html#p282"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="25" class="chapter">
+        <navLabel>
+          <text>20: Catholic Theology of the Trinity in the Nineteenth Century</text>
+        </navLabel>
+        <content src="index_split_005.html#p296"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="26" class="chapter">
+        <navLabel>
+          <text>21: Karl Barth's Doctrine of the Trinity, and Some Protestant Doctrines after Barth</text>
+        </navLabel>
+        <content src="index_split_005.html#p309"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="27" class="chapter">
+        <navLabel>
+          <text>22: . Karl Rahner, Hans Urs von Balthasar, and 20th Century Catholic Currents on the Trinity</text>
+        </navLabel>
+        <content src="index_split_005.html#p330"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="28" class="chapter">
+        <navLabel>
+          <text>23: Contemporary Orthodox Currents on the Trinity</text>
+        </navLabel>
+        <content src="index_split_005.html#p345"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="29" class="chapter">
+        <navLabel>
+          <text>24: Trinitarian Theology in the Light of Analytic Philosophy</text>
+        </navLabel>
+        <content src="index_split_006.html#p357"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_34" playOrder="30" class="chapter">
+      <navLabel>
+        <text>Part V: Trinitarian Dogmatics</text>
+      </navLabel>
+      <content src="index_split_006.html#p365"/>
+      <navPoint id="num_35" playOrder="30" class="chapter">
+        <navLabel>
+          <text>25: The Trinity as Christian Teaching</text>
+        </navLabel>
+        <content src="index_split_006.html#p365"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="31" class="chapter">
+        <navLabel>
+          <text>26: The Divine Person(s): Trinity, Person, and Analogous Naming</text>
+        </navLabel>
+        <content src="index_split_006.html#p376"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="32" class="chapter">
+        <navLabel>
+          <text>27: A Theology of God the Father</text>
+        </navLabel>
+        <content src="index_split_006.html#p389"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="33" class="chapter">
+        <navLabel>
+          <text>28: Trinitarian Christology: The Eternal Son</text>
+        </navLabel>
+        <content src="index_split_006.html#p406"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="34" class="chapter">
+        <navLabel>
+          <text>29: The Deep Things of God: Trinitarian Pneumatology</text>
+        </navLabel>
+        <content src="index_split_007.html#p420"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="35" class="chapter">
+        <navLabel>
+          <text>30: The Trinity, Creation and Christian Anthropology</text>
+        </navLabel>
+        <content src="index_split_007.html#p435"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="36" class="chapter">
+        <navLabel>
+          <text>31: The Trinity, the Church, and the Sacraments</text>
+        </navLabel>
+        <content src="index_split_007.html#p450"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="37" class="chapter">
+        <navLabel>
+          <text>32: Trinity and Salvation: Christian Life as an Existence in the Trinity</text>
+        </navLabel>
+        <content src="index_split_007.html#p465"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_43" playOrder="38" class="chapter">
+      <navLabel>
+        <text>Part VI: The Trinity and Christian Life</text>
+      </navLabel>
+      <content src="index_split_008.html#p478"/>
+      <navPoint id="num_44" playOrder="38" class="chapter">
+        <navLabel>
+          <text>33: The Trinity in Liturgy and Preaching</text>
+        </navLabel>
+        <content src="index_split_008.html#p478"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="39" class="chapter">
+        <navLabel>
+          <text>34: The Trinity in Christian Visual Arts</text>
+        </navLabel>
+        <content src="index_split_008.html#p495"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="40" class="chapter">
+        <navLabel>
+          <text>35: The Trinitarian Imprint on the Moral Life</text>
+        </navLabel>
+        <content src="index_split_009.html#p511"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="41" class="chapter">
+        <navLabel>
+          <text>36: The Trinity and Moral Life: Julian's Trinitarian Logic of Love and Contagion</text>
+        </navLabel>
+        <content src="index_split_009.html#p518"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="42" class="chapter">
+        <navLabel>
+          <text>37: The Trinity and Prayer</text>
+        </navLabel>
+        <content src="index_split_009.html#p531"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="43" class="chapter">
+        <navLabel>
+          <text>38: The Trinity and Feminism</text>
+        </navLabel>
+        <content src="index_split_009.html#p546"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="44" class="chapter">
+        <navLabel>
+          <text>39: Trinity and Politics</text>
+        </navLabel>
+        <content src="index_split_010.html#p559"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_51" playOrder="45" class="chapter">
+      <navLabel>
+        <text>Part VII: Dialogues</text>
+      </navLabel>
+      <content src="index_split_010.html#p573"/>
+      <navPoint id="num_52" playOrder="45" class="chapter">
+        <navLabel>
+          <text>40: Ecumenism and the Doctrine of the Trinity Today</text>
+        </navLabel>
+        <content src="index_split_010.html#p573"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="46" class="chapter">
+        <navLabel>
+          <text>41: The Doctrine of God in Jewish-Christian Dialogue</text>
+        </navLabel>
+        <content src="index_split_010.html#p586"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="47" class="chapter">
+        <navLabel>
+          <text>42: The Trinity in Interreligious Dialogues</text>
+        </navLabel>
+        <content src="index_split_010.html#p600"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="48" class="chapter">
+        <navLabel>
+          <text>43: Globalization, Postmodern Theories of Culture and the Trinity</text>
+        </navLabel>
+        <content src="index_split_011.html#p613"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="49" class="chapter">
+        <navLabel>
+          <text>Conclusion: Prospects for Trinitarian Theology</text>
+        </navLabel>
+        <content src="index_split_011.html#p628"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_57" playOrder="50" class="chapter">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="index_split_011.html#p635"/>
+    </navPoint>
+  </navMap>
+</ncx>
