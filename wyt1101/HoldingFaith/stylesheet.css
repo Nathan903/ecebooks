@@ -1,0 +1,612 @@
+.author {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: right;
+  margin: 0.5em 0 0;
+}
+.authorz {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1em 0 0;
+}
+.blockquotet {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  margin: 1.3em 1.6em 0;
+}
+.border {
+  line-height: 1.2;
+  border-bottom: #000 solid 0.1em;
+}
+.box {
+  background-color: #bcbdc0;
+  display: block;
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  padding: 1em;
+}
+.boxdash {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -0.6em;
+  margin: 0.1em 0 0 1em;
+}
+.boxdasht {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -0.6em;
+  margin: 1.3em 0 0 1em;
+}
+.boxhead {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: center;
+  margin: 0.7em 0 1em;
+}
+.boxnumber {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -1.5em;
+  margin: 0.1em 1em 0 1.5em;
+}
+.boxnumberat {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -4.5em;
+  margin: 3.5em 0 0 4.5em;
+}
+.boxnumbert {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -1.5em;
+  margin: 1.3em 1em 0 1.5em;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+}
+.calibre2 {
+  height: 98%;
+  width: 100%;
+}
+.calibre3 {
+  font-size: 1em;
+  line-height: 1.2;
+}
+.calibre4 {
+  display: block;
+  line-height: 1.2;
+}
+.calibre5 {
+  line-height: 1.2;
+  text-decoration: none;
+}
+.calibre6 {
+  height: auto;
+  width: auto;
+}
+.calibre7 {
+  text-decoration: none;
+}
+.calibre8 {
+  font-style: italic;
+}
+.calibre9 {
+  font-weight: bold;
+}
+.calibre10 {
+  font-size: 0.90909em;
+  line-height: 1.2;
+}
+.calibre11 {
+  font-size: 0.91667em;
+  line-height: 1.2;
+}
+.calibre12 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre13 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre14 {
+  font-size: 0.625em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre15 {
+  font-size: 0.83333em;
+}
+.calibre16 {
+  font-size: 0.77419em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.calibre17 {
+  font-size: 0.75em;
+  line-height: 1.2;
+  vertical-align: sub;
+}
+.calibre18 {
+  border-collapse: collapse;
+  border-spacing: 2px;
+  display: table;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-indent: 0;
+  width: 100%;
+}
+.calibre19 {
+  display: table-row;
+  vertical-align: middle;
+}
+.calibre20 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 30%;
+  padding: 1px;
+}
+.calibre21 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  width: 70%;
+  padding: 1px;
+}
+.calibre22 {
+  display: table-cell;
+  text-align: inherit;
+  vertical-align: top;
+  padding: 1px;
+}
+.calibre23 {
+  font-size: 0.775em;
+  line-height: 1.2;
+}
+.center {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: center;
+  margin: 2.5em 0 0;
+}
+.centerz {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: center;
+  margin: 0.1em 0 0;
+}
+.centerzt {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: center;
+  margin: 1em 0 0;
+}
+.copyc {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: center;
+  margin: 3em 0 0;
+}
+.copyc1 {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: center;
+  margin: 2.5em 0 0;
+}
+.copyct {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: center;
+  margin: 1.5em 0 0;
+}
+.copyt {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: justify;
+  margin: 1.2em 0 0;
+}
+.copyt1 {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  font-weight: normal;
+  text-align: justify;
+  margin: 2em 0 0;
+}
+.dasha {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -0.6em;
+  margin: 0.9em 1em 0 2.1em;
+}
+.dedication {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: center;
+  margin: 5em 0 0;
+}
+.endnote {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 1.6em;
+  margin: 0.7em 0 0;
+}
+.h {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1.5em 0 0;
+}
+.h1 {
+  display: block;
+  font-family: serif;
+  font-size: 1.66667em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 3.5em 0 0;
+}
+.h2 {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 2.7em 0 0.7em;
+}
+.h2a {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 0.3em 0 1.3em;
+}
+.h2s {
+  display: block;
+  font-family: serif;
+  font-size: 1.83333em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 1em;
+  margin: 1.8em 0 0;
+}
+.h2x {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 2em 0 1.3em 1em;
+}
+.h2y {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 3.5em 0 0.7em;
+}
+.h2y1 {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0;
+}
+.h2z {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 2em 0 2em 1em;
+}
+.h2z1 {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 2em 0;
+}
+.h3 {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1.7em 0 0.5em;
+}
+.h3a {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 1em 0 0.7em;
+}
+.h3x {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 3em;
+}
+.h3y {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 0.5em;
+}
+.h3y1 {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 2em 0 0.5em;
+}
+.h3z {
+  display: block;
+  font-family: serif;
+  font-size: 1.66667em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: left;
+  margin: 2em 0 0.5em;
+}
+.halftitle {
+  display: block;
+  font-family: serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 2.5em 0 0;
+}
+.imagec {
+  display: block;
+  text-align: center;
+  margin: 1.3em 0;
+}
+.indent {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: 1.6em;
+  margin: 0.1em 0 0;
+}
+.indent1 {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: 1.6em;
+  margin: 2.3em 0 0;
+}
+.indentt {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: 1.6em;
+  margin: 1.3em 0 0;
+}
+.indexmain {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: -2.8em;
+  margin: 0.1em 0 0.2em 2.8em;
+}
+.indexmain1 {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: -2.8em;
+  margin: 1.3em 0 0.2em 2.8em;
+}
+.indexmaina {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  margin: 0.1em 0 0.2em;
+}
+.indexsub {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: -2.3em;
+  margin: 0.1em 0 0.2em 3.5em;
+}
+.noindent {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  margin: 0.1em 0 0;
+}
+.noindentt {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  margin: 1.5em 0 0;
+}
+.noindentx {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  margin: 0.1em 0 2em;
+}
+.number {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -1.4em;
+  margin: 0.5em 1em 0 2.5em;
+}
+.numberhang {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: -3.4em;
+  margin: 1.5em 0 0 3.4em;
+}
+.numbert {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  text-indent: -1.4em;
+  margin: 1.5em 1em 0 2.5em;
+}
+.poem {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: left;
+  margin: 0.1em 0 0 1.7em;
+}
+.poema {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: left;
+  margin: 0.1em 0 0 2.7em;
+}
+.poemt {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: left;
+  margin: 2.3em 0 0 1.7em;
+}
+.publisher {
+  display: block;
+  text-align: center;
+  margin: 3.5em 0 0;
+}
+.subtitle {
+  display: block;
+  font-family: serif;
+  font-size: 1.29167em;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  margin: 1.5em 0 0;
+}
+.tablet {
+  display: block;
+  font-family: serif;
+  font-size: 1em;
+  text-align: justify;
+  margin: 1.3em 0 0;
+}
+.toc {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: justify;
+  margin: 2.5em 0 0;
+}
+.toc1 {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: justify;
+  margin: 1em 0 0;
+}
+.toc2 {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: justify;
+  margin: 1.7em 0 0;
+}
+.toc3 {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: justify;
+  margin: 1.5em 0 0;
+}
+.toca {
+  display: block;
+  font-family: serif;
+  font-weight: normal;
+  text-align: justify;
+  text-indent: 2.7em;
+  margin: 0.7em 0 0;
+}

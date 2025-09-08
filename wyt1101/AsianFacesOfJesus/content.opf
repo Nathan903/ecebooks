@@ -1,0 +1,83 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="isbn" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Asian Faces of Jesus</dc:title>
+<dc:creator>Sugirthharajah, R.S.</dc:creator>
+<dc:language>und</dc:language>
+<dc:rights>Copyright © 1993 by R. S. Sugirtharajah</dc:rights>
+<dc:publisher>Catholic Foreign Mission Society of America, Inc.</dc:publisher>
+<dc:identifier id="isbn">isbn:9781608334544</dc:identifier>
+<meta content="cover-image" name="cover"/>
+</metadata>
+<manifest>
+<!-- Images -->
+<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/t.jpg" id="it" media-type="image/jpeg"/>
+<!-- xhtml -->
+<item href="acknowledgments.xhtml" id="iacknowledgments" media-type="application/xhtml+xml"/>
+<item href="chapter01.xhtml" id="ichapter01" media-type="application/xhtml+xml"/>
+<item href="chapter02.xhtml" id="ichapter02" media-type="application/xhtml+xml"/>
+<item href="chapter03.xhtml" id="ichapter03" media-type="application/xhtml+xml"/>
+<item href="chapter04.xhtml" id="ichapter04" media-type="application/xhtml+xml"/>
+<item href="chapter05.xhtml" id="ichapter05" media-type="application/xhtml+xml"/>
+<item href="chapter06.xhtml" id="ichapter06" media-type="application/xhtml+xml"/>
+<item href="chapter07.xhtml" id="ichapter07" media-type="application/xhtml+xml"/>
+<item href="chapter08.xhtml" id="ichapter08" media-type="application/xhtml+xml"/>
+<item href="chapter09.xhtml" id="ichapter09" media-type="application/xhtml+xml"/>
+<item href="chapter10.xhtml" id="ichapter10" media-type="application/xhtml+xml"/>
+<item href="chapter11.xhtml" id="ichapter11" media-type="application/xhtml+xml"/>
+<item href="chapter12.xhtml" id="ichapter12" media-type="application/xhtml+xml"/>
+<item href="chapter13.xhtml" id="ichapter13" media-type="application/xhtml+xml"/>
+<item href="chapter14.xhtml" id="ichapter14" media-type="application/xhtml+xml"/>
+<item href="chapter15.xhtml" id="ichapter15" media-type="application/xhtml+xml"/>
+<item href="conributors.xhtml" id="iconributors" media-type="application/xhtml+xml"/>
+<item href="copyright.xhtml" id="icopyright" media-type="application/xhtml+xml"/>
+<item href="cover.xhtml" id="icover" media-type="application/xhtml+xml"/>
+<item href="epilogue.xhtml" id="iepilogue" media-type="application/xhtml+xml"/>
+<item href="front.xhtml" id="ifront" media-type="application/xhtml+xml"/>
+<item href="part1.xhtml" id="ipart1" media-type="application/xhtml+xml"/>
+<item href="part1a.xhtml" id="ipart1a" media-type="application/xhtml+xml"/>
+<item href="part2.xhtml" id="ipart2" media-type="application/xhtml+xml"/>
+<item href="part2a.xhtml" id="ipart2a" media-type="application/xhtml+xml"/>
+<item href="prologue.xhtml" id="iprologue" media-type="application/xhtml+xml"/>
+<item href="title.xhtml" id="ititle" media-type="application/xhtml+xml"/>
+<item href="toc.xhtml" id="itoc" media-type="application/xhtml+xml"/>
+<!-- other -->
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="ebook_style.css" id="style_bv" media-type="text/css"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="icover" linear="yes"/>
+<itemref idref="ifront" linear="yes"/>
+<itemref idref="ititle" linear="yes"/>
+<itemref idref="icopyright" linear="yes"/>
+<itemref idref="itoc" linear="yes"/>
+<itemref idref="iacknowledgments" linear="yes"/>
+<itemref idref="iprologue" linear="yes"/>
+<itemref idref="ipart1" linear="yes"/>
+<itemref idref="ipart1a" linear="yes"/>
+<itemref idref="ichapter01" linear="yes"/>
+<itemref idref="ichapter02" linear="yes"/>
+<itemref idref="ichapter03" linear="yes"/>
+<itemref idref="ichapter04" linear="yes"/>
+<itemref idref="ichapter05" linear="yes"/>
+<itemref idref="ichapter06" linear="yes"/>
+<itemref idref="ichapter07" linear="yes"/>
+<itemref idref="ipart2" linear="yes"/>
+<itemref idref="ipart2a" linear="yes"/>
+<itemref idref="ichapter08" linear="yes"/>
+<itemref idref="ichapter09" linear="yes"/>
+<itemref idref="ichapter10" linear="yes"/>
+<itemref idref="ichapter11" linear="yes"/>
+<itemref idref="ichapter12" linear="yes"/>
+<itemref idref="ichapter13" linear="yes"/>
+<itemref idref="ichapter14" linear="yes"/>
+<itemref idref="ichapter15" linear="yes"/>
+<itemref idref="iepilogue" linear="yes"/>
+<itemref idref="iconributors" linear="yes"/>
+</spine>
+<guide>
+<reference href="cover.xhtml" title="Cover Image" type="cover"/>
+<reference href="title.xhtml" title="Title Page" type="text"/>
+<reference href="toc.xhtml" title="Contents" type="toc"/>
+</guide>
+</package>

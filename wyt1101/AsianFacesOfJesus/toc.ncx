@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="isbn:9781608334544"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="280"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Asian Faces of Jesus (Faith and Cultures Series)</text></docTitle>
+<docAuthor><text>R. S. Sugirtharajah</text></docAuthor>
+<navMap>
+<navPoint id="navpoint1" playOrder="1">
+<navLabel><text>Cover Page</text></navLabel>
+<content src="cover.xhtml"/>
+</navPoint>
+<navPoint id="navpoint2" playOrder="2">
+<navLabel><text>Title Page</text></navLabel>
+<content src="title.xhtml"/>
+</navPoint>
+<navPoint id="navpoint3" playOrder="3">
+<navLabel><text>Copyright Page</text></navLabel>
+<content src="copyright.xhtml"/>
+</navPoint>
+<navPoint id="navpoint4" playOrder="4">
+<navLabel><text>Contents</text></navLabel>
+<content src="toc.xhtml"/>
+</navPoint>
+<navPoint id="navpoint5" playOrder="5">
+<navLabel><text>Acknowledgments</text></navLabel>
+<content src="acknowledgments.xhtml"/>
+</navPoint>
+<navPoint id="navpoint6" playOrder="6">
+<navLabel><text>Prologue and Perspective</text></navLabel>
+<content src="prologue.xhtml"/>
+</navPoint>
+<navPoint id="navpoint7" playOrder="7">
+<navLabel><text>Part One - Jesus Amid Other Asian Ways, Truths and Lights</text></navLabel>
+<content src="part1.xhtml"/>
+<navPoint id="navpoint8" playOrder="8">
+<navLabel><text>An Interpretative Foreword</text></navLabel>
+<content src="part1a.xhtml"/>
+</navPoint>
+<navPoint id="navpoint9" playOrder="9">
+<navLabel><text>1. Jesus and Krishna</text></navLabel>
+<content src="chapter01.xhtml"/>
+</navPoint>
+<navPoint id="navpoint10" playOrder="10">
+<navLabel><text>2. Christ and Buddha</text></navLabel>
+<content src="chapter02.xhtml"/>
+</navPoint>
+<navPoint id="navpoint11" playOrder="11">
+<navLabel><text>3. The Buddha and the Christ: Mediators of Liberation</text></navLabel>
+<content src="chapter03.xhtml"/>
+</navPoint>
+<navPoint id="navpoint12" playOrder="12">
+<navLabel><text>4. The Perfect Realization of Change: Jesus Christ</text></navLabel>
+<content src="chapter04.xhtml"/>
+</navPoint>
+<navPoint id="navpoint13" playOrder="13">
+<navLabel><text>5. Confessing Christ in the Islamic Context</text></navLabel>
+<content src="chapter05.xhtml"/>
+</navPoint>
+<navPoint id="navpoint14" playOrder="14">
+<navLabel><text>6. The Pluralism of Religions and the Significance of Christ</text></navLabel>
+<content src="chapter06.xhtml"/>
+</navPoint>
+<navPoint id="navpoint15" playOrder="15">
+<navLabel><text>7. The Cross and the Rainbow: Christ in a Multireligious Culture</text></navLabel>
+<content src="chapter07.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint16" playOrder="16">
+<navLabel><text>Part Two - Newly Emerging Profiles of Jesus Amid Asia&#x0027;s Poverty and Religious Plurality</text></navLabel>
+<content src="part2.xhtml"/>
+<navPoint id="navpoint17" playOrder="17">
+<navLabel><text>An Interpretative Foreword</text></navLabel>
+<content src="part2a.xhtml"/>
+</navPoint>
+<navPoint id="navpoint18" playOrder="18">
+<navLabel><text>8. Oh, Jesus, here with Us!</text></navLabel>
+<content src="chapter08.xhtml"/>
+</navPoint>
+<navPoint id="navpoint19" playOrder="19">
+<navLabel><text>9. The Crucified Christ Challenges Human Power</text></navLabel>
+<content src="chapter09.xhtml"/>
+</navPoint>
+<navPoint id="navpoint20" playOrder="20">
+<navLabel><text>10. Jesus and People (Minjung)</text></navLabel>
+<content src="chapter10.xhtml"/>
+</navPoint>
+<navPoint id="navpoint21" playOrder="21">
+<navLabel><text>11. Jesus and Transculturation</text></navLabel>
+<content src="chapter11.xhtml"/>
+</navPoint>
+<navPoint id="navpoint22" playOrder="22">
+<navLabel><text>12. The Hope of Liberation Lessens Man&#x0027;s Inhumanity: A Contribution to Dialogue at Village Level</text></navLabel>
+<content src="chapter12.xhtml"/>
+</navPoint>
+<navPoint id="navpoint23" playOrder="23">
+<navLabel><text>13. Christology from an Asian Woman&#x0027;s Perspective</text></navLabel>
+<content src="chapter13.xhtml"/>
+</navPoint>
+<navPoint id="navpoint24" playOrder="24">
+<navLabel><text>14. Who is Jesus for Asian Women?</text></navLabel>
+<content src="chapter14.xhtml"/>
+</navPoint>
+<navPoint id="navpoint25" playOrder="25">
+<navLabel><text>15. Jesus Christ in Popular Piety in the Philippines</text></navLabel>
+<content src="chapter15.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint26" playOrder="26">
+<navLabel><text>Epilogue. Reconceiving Jesus: Some Continuing Concerns</text></navLabel>
+<content src="epilogue.xhtml"/>
+</navPoint>
+<navPoint id="navpoint27" playOrder="27">
+<navLabel><text>Contributors</text></navLabel>
+<content src="conributors.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>

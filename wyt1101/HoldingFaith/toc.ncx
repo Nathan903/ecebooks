@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="fde43054-1d61-48de-9371-5f83b6152870"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="calibre (8.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Holding Faith</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="i1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="OPS/xhtml/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="i2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>Half title</text>
+      </navLabel>
+      <content src="OPS/xhtml/halftitle.xhtml"/>
+    </navPoint>
+    <navPoint id="i3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="OPS/xhtml/title.xhtml"/>
+    </navPoint>
+    <navPoint id="i4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="OPS/xhtml/copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="i5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="OPS/xhtml/dedication.xhtml"/>
+    </navPoint>
+    <navPoint id="i6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="OPS/xhtml/contents.xhtml"/>
+    </navPoint>
+    <navPoint id="i7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="OPS/xhtml/preface.xhtml"/>
+    </navPoint>
+    <navPoint id="i8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>Introduction: Transforming Theology</text>
+      </navLabel>
+      <content src="OPS/xhtml/introduction.xhtml"/>
+    </navPoint>
+    <navPoint id="i9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>Part One: Speaking of God</text>
+      </navLabel>
+      <content src="OPS/xhtml/part01.xhtml"/>
+      <navPoint id="i10" playOrder="10" class="chapter">
+        <navLabel>
+          <text>Chapter One—How Can We Speak of God?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter01.xhtml"/>
+        <navPoint id="i11" playOrder="11" class="chapter">
+          <navLabel>
+            <text>The Doctrine of Revelation</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter01.xhtml#ch1lev1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="i12" playOrder="12" class="chapter">
+        <navLabel>
+          <text>Chapter Two—Where Do We Find the Right Words to Say?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter02.xhtml"/>
+        <navPoint id="i13" playOrder="13" class="chapter">
+          <navLabel>
+            <text>The Doctrine of Scripture</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter02.xhtml#ch2lev1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="i14" playOrder="14" class="chapter">
+      <navLabel>
+        <text>Part Two: God Meets Us</text>
+      </navLabel>
+      <content src="OPS/xhtml/part02.xhtml"/>
+      <navPoint id="i15" playOrder="15" class="chapter">
+        <navLabel>
+          <text>Chapter Three—Where Does God Meet Us?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter03.xhtml"/>
+        <navPoint id="i16" playOrder="16" class="chapter">
+          <navLabel>
+            <text>The Doctrine of the Incarnation</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter03.xhtml#ch3lev1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="i17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>Chapter Four—In What Ways Does God Claim Us?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter04.xhtml"/>
+        <navPoint id="i18" playOrder="18" class="chapter">
+          <navLabel>
+            <text>The Doctrine of the Trinity</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter04.xhtml#ch4lev1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="i19" playOrder="19" class="chapter">
+      <navLabel>
+        <text>Part Three: God Makes Us</text>
+      </navLabel>
+      <content src="OPS/xhtml/part03.xhtml"/>
+      <navPoint id="i20" playOrder="20" class="chapter">
+        <navLabel>
+          <text>Chapter Five—Who Did God Create Us to Be, and What Went Wrong?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter05.xhtml"/>
+        <navPoint id="i21" playOrder="21" class="chapter">
+          <navLabel>
+            <text>The Doctrine of Creation</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter05.xhtml#ch5lev1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="i22" playOrder="22" class="chapter">
+        <navLabel>
+          <text>Chapter Six—Who Is God Making Us Into?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter06.xhtml"/>
+        <navPoint id="i23" playOrder="23" class="chapter">
+          <navLabel>
+            <text>The Doctrines of Sin and Salvation</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter06.xhtml#ch6lev1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="i24" playOrder="24" class="chapter">
+      <navLabel>
+        <text>Part Four: God Blesses Us</text>
+      </navLabel>
+      <content src="OPS/xhtml/part04.xhtml"/>
+      <navPoint id="i25" playOrder="25" class="chapter">
+        <navLabel>
+          <text>Chapter Seven—Where Is Our Home?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter07.xhtml"/>
+        <navPoint id="i26" playOrder="26" class="chapter">
+          <navLabel>
+            <text>The Doctrine of the Church</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter07.xhtml#ch7lev1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="i27" playOrder="27" class="chapter">
+        <navLabel>
+          <text>Chapter Eight—What Does It Mean to Be God’s Children?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter08.xhtml"/>
+        <navPoint id="i28" playOrder="28" class="chapter">
+          <navLabel>
+            <text>The Doctrine of the Christian Life</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter08.xhtml#ch8lev1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="i29" playOrder="29" class="chapter">
+      <navLabel>
+        <text>Part Five: God Sends Us</text>
+      </navLabel>
+      <content src="OPS/xhtml/part05.xhtml"/>
+      <navPoint id="i30" playOrder="30" class="chapter">
+        <navLabel>
+          <text>Chapter Nine—Where Are We Headed?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter09.xhtml"/>
+        <navPoint id="i31" playOrder="31" class="chapter">
+          <navLabel>
+            <text>The Doctrine of Christian Hope</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter09.xhtml#ch9lev1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="i32" playOrder="32" class="chapter">
+        <navLabel>
+          <text>Chapter Ten—What Are We Called to Do?</text>
+        </navLabel>
+        <content src="OPS/xhtml/chapter10.xhtml"/>
+        <navPoint id="i33" playOrder="33" class="chapter">
+          <navLabel>
+            <text>The Doctrine of Christian Vocation</text>
+          </navLabel>
+          <content src="OPS/xhtml/chapter10.xhtml#ch10lev1"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="i34" playOrder="34" class="chapter">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="OPS/xhtml/notes.xhtml"/>
+    </navPoint>
+    <navPoint id="i35" playOrder="35" class="chapter">
+      <navLabel>
+        <text>Reflection and Discussion Questions</text>
+      </navLabel>
+      <content src="OPS/xhtml/reflection.xhtml"/>
+    </navPoint>
+    <navPoint id="i36" playOrder="36" class="chapter">
+      <navLabel>
+        <text>Scripture Index</text>
+      </navLabel>
+      <content src="OPS/xhtml/index.xhtml"/>
+    </navPoint>
+    <navPoint id="i37" playOrder="37" class="chapter">
+      <navLabel>
+        <text>Names and Topics Index</text>
+      </navLabel>
+      <content src="OPS/xhtml/index01.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

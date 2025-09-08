@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="isbn:9781608330386"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="280"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>God of the Oppressed</text></docTitle>
+<docAuthor><text>James H. Cone</text></docAuthor>
+<navMap>
+<navPoint id="navpoint1" playOrder="1">
+<navLabel><text>Cover Page</text></navLabel>
+<content src="cover.xhtml"/>
+</navPoint>
+<navPoint id="navpoint2" playOrder="2">
+<navLabel><text>Title Page</text></navLabel>
+<content src="title.xhtml"/>
+</navPoint>
+<navPoint id="navpoint3" playOrder="3">
+<navLabel><text>Copyright Page</text></navLabel>
+<content src="copyright.xhtml"/>
+</navPoint>
+<navPoint id="navpoint4" playOrder="4">
+<navLabel><text>Dedication Page</text></navLabel>
+<content src="dedication.xhtml"/>
+</navPoint>
+<navPoint id="navpoint5" playOrder="5">
+<navLabel><text>Contents</text></navLabel>
+<content src="toc.xhtml"/>
+</navPoint>
+<navPoint id="navpoint6" playOrder="6">
+<navLabel><text>Preface to the 1997 Edition</text></navLabel>
+<content src="preface.xhtml"/>
+</navPoint>
+<navPoint id="navpoint7" playOrder="7">
+<navLabel><text>Preface to the 1975 Edition</text></navLabel>
+<content src="preface01.xhtml"/>
+</navPoint>
+<navPoint id="navpoint8" playOrder="8">
+<navLabel><text>Chapter 1: Introduction</text></navLabel>
+<content src="chapter01.xhtml"/>
+</navPoint>
+<navPoint id="navpoint9" playOrder="9">
+<navLabel><text>Chapter 2: Speaking the Truth</text></navLabel>
+<content src="chapter02.xhtml"/>
+<navPoint id="navpoint10" playOrder="10">
+<navLabel><text>The Black Experience as a Source of Theology</text></navLabel>
+<content src="chapter02.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint11" playOrder="11">
+<navLabel><text>Black Experience, Scripture, and Jesus Christ</text></navLabel>
+<content src="chapter02.xhtml#sub2"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint12" playOrder="12">
+<navLabel><text>Chapter 3: The Social Context of Theology</text></navLabel>
+<content src="chapter03.xhtml"/>
+<navPoint id="navpoint13" playOrder="13">
+<navLabel><text>Feuerbach, Marx, and the Sociology of Knowledge</text></navLabel>
+<content src="chapter03.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint14" playOrder="14">
+<navLabel><text>White American Theology</text></navLabel>
+<content src="chapter03.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint15" playOrder="15">
+<navLabel><text>Black Religious Thought</text></navLabel>
+<content src="chapter03.xhtml#sub3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint16" playOrder="16">
+<navLabel><text>Chapter 4: Biblical Revelation and Social Existence</text></navLabel>
+<content src="chapter04.xhtml"/>
+<navPoint id="navpoint17" playOrder="17">
+<navLabel><text>The Social Context of Divine Revelation in the Old Testament</text></navLabel>
+<content src="chapter04.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint18" playOrder="18">
+<navLabel><text>The Social Context of Divine Revelation in the New Testament</text></navLabel>
+<content src="chapter04.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint19" playOrder="19">
+<navLabel><text>Christian Theology and the Biblical Story</text></navLabel>
+<content src="chapter04.xhtml#sub3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint20" playOrder="20">
+<navLabel><text>Chapter 5: Black Theology and Ideology</text></navLabel>
+<content src="chapter05.xhtml"/>
+<navPoint id="navpoint21" playOrder="21">
+<navLabel><text>H. Richard Niebuhr&#x0027;s Christ and Culture</text></navLabel>
+<content src="chapter05.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint22" playOrder="22">
+<navLabel><text>Ideology, Social Determination, and Biblical Revelation</text></navLabel>
+<content src="chapter05.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint23" playOrder="23">
+<navLabel><text>Black Theology and Ideology</text></navLabel>
+<content src="chapter05.xhtml#sub3"/>
+</navPoint>
+<navPoint id="navpoint24" playOrder="24">
+<navLabel><text>Ideology and the Black Story</text></navLabel>
+<content src="chapter05.xhtml#sub4"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint25" playOrder="25">
+<navLabel><text>Chapter 6: Who is Jesus Christ for us Today?</text></navLabel>
+<content src="chapter06.xhtml"/>
+<navPoint id="navpoint26" playOrder="26">
+<navLabel><text>Social Context, Scripture, and Tradition</text></navLabel>
+<content src="chapter06.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint27" playOrder="27">
+<navLabel><text>Jesus is Who He Was</text></navLabel>
+<content src="chapter06.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint28" playOrder="28">
+<navLabel><text>Jesus is Who He Is</text></navLabel>
+<content src="chapter06.xhtml#sub3"/>
+</navPoint>
+<navPoint id="navpoint29" playOrder="29">
+<navLabel><text>Jesus is Who He will Be</text></navLabel>
+<content src="chapter06.xhtml#sub4"/>
+</navPoint>
+<navPoint id="navpoint30" playOrder="30">
+<navLabel><text>Jesus is Black</text></navLabel>
+<content src="chapter06.xhtml#sub5"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint31" playOrder="31">
+<navLabel><text>Chapter 7: The Meaning of Liberation</text></navLabel>
+<content src="chapter07.xhtml"/>
+<navPoint id="navpoint32" playOrder="32">
+<navLabel><text>Jesus Christ as the Ground of Human Liberation</text></navLabel>
+<content src="chapter07.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint33" playOrder="33">
+<navLabel><text>Liberation as Freedom to be in Relation to God</text></navLabel>
+<content src="chapter07.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint34" playOrder="34">
+<navLabel><text>Liberation as Freedom in Relation to Self and the Community of the Oppressed</text></navLabel>
+<content src="chapter07.xhtml#sub3"/>
+</navPoint>
+<navPoint id="navpoint35" playOrder="35">
+<navLabel><text>Liberation as the Project of Freedom in History</text></navLabel>
+<content src="chapter07.xhtml#sub4"/>
+</navPoint>
+<navPoint id="navpoint36" playOrder="36">
+<navLabel><text>Liberation as the Project of Freedom in Hope</text></navLabel>
+<content src="chapter07.xhtml#sub5"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint37" playOrder="37">
+<navLabel><text>Chapter 8: Divine Liberation and Black Suffering</text></navLabel>
+<content src="chapter08.xhtml"/>
+<navPoint id="navpoint38" playOrder="38">
+<navLabel><text>Suffering in the Bible</text></navLabel>
+<content src="chapter08.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint39" playOrder="39">
+<navLabel><text>Suffering in the Western Theological Tradition</text></navLabel>
+<content src="chapter08.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint40" playOrder="40">
+<navLabel><text>Suffering in the Black Religious Tradition</text></navLabel>
+<content src="chapter08.xhtml#sub3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint41" playOrder="41">
+<navLabel><text>Chapter 9: Liberation and the Christian Ethic</text></navLabel>
+<content src="chapter09.xhtml"/>
+<navPoint id="navpoint42" playOrder="42">
+<navLabel><text>The Interdependence of Theology and Ethics</text></navLabel>
+<content src="chapter09.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint43" playOrder="43">
+<navLabel><text>Toward a Black Ethic of Liberation</text></navLabel>
+<content src="chapter09.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint44" playOrder="44">
+<navLabel><text>Ethics, Violence, and Jesus Christ</text></navLabel>
+<content src="chapter09.xhtml#sub3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint45" playOrder="45">
+<navLabel><text>Chapter 10: Liberation and Reconciliation</text></navLabel>
+<content src="chapter10.xhtml"/>
+<navPoint id="navpoint46" playOrder="46">
+<navLabel><text>The Objective Reality of Reconciliation</text></navLabel>
+<content src="chapter10.xhtml#sub1"/>
+</navPoint>
+<navPoint id="navpoint47" playOrder="47">
+<navLabel><text>The Subjective Reality of Reconciliation</text></navLabel>
+<content src="chapter10.xhtml#sub2"/>
+</navPoint>
+<navPoint id="navpoint48" playOrder="48">
+<navLabel><text>Reconciliation: Black and White</text></navLabel>
+<content src="chapter10.xhtml#sub3"/>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint49" playOrder="49">
+<navLabel><text>Notes</text></navLabel>
+<content src="notes.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>

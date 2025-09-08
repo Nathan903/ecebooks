@@ -1,0 +1,63 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="isbn" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>God of the Oppressed</dc:title>
+<dc:creator>Cone, James H.;</dc:creator>
+<dc:language>eng</dc:language>
+<dc:rights>Copyright © 1997 by James H. Cone</dc:rights>
+<dc:publisher>Catholic Foreign Mission Society of America, Inc.</dc:publisher>
+<dc:identifier id="isbn">isbn:9781608330386</dc:identifier>
+<meta content="cover-image" name="cover"/>
+</metadata>
+<manifest>
+<!-- Images -->
+<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/tit.jpg" id="img-tit" media-type="image/jpeg"/>
+<!-- xhtml -->
+<item href="chapter01.xhtml" id="ichapter01" media-type="application/xhtml+xml"/>
+<item href="chapter02.xhtml" id="ichapter02" media-type="application/xhtml+xml"/>
+<item href="chapter03.xhtml" id="ichapter03" media-type="application/xhtml+xml"/>
+<item href="chapter04.xhtml" id="ichapter04" media-type="application/xhtml+xml"/>
+<item href="chapter05.xhtml" id="ichapter05" media-type="application/xhtml+xml"/>
+<item href="chapter06.xhtml" id="ichapter06" media-type="application/xhtml+xml"/>
+<item href="chapter07.xhtml" id="ichapter07" media-type="application/xhtml+xml"/>
+<item href="chapter08.xhtml" id="ichapter08" media-type="application/xhtml+xml"/>
+<item href="chapter09.xhtml" id="ichapter09" media-type="application/xhtml+xml"/>
+<item href="chapter10.xhtml" id="ichapter10" media-type="application/xhtml+xml"/>
+<item href="copyright.xhtml" id="icopyright" media-type="application/xhtml+xml"/>
+<item href="cover.xhtml" id="icover" media-type="application/xhtml+xml"/>
+<item href="dedication.xhtml" id="idedication" media-type="application/xhtml+xml"/>
+<item href="notes.xhtml" id="inotes" media-type="application/xhtml+xml"/>
+<item href="preface.xhtml" id="ipreface" media-type="application/xhtml+xml"/>
+<item href="preface01.xhtml" id="ipreface01" media-type="application/xhtml+xml"/>
+<item href="title.xhtml" id="ititle" media-type="application/xhtml+xml"/>
+<item href="toc.xhtml" id="itoc" media-type="application/xhtml+xml"/>
+<!-- other -->
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="ebook_style.css" id="style" media-type="text/css"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="icover" linear="yes"/>
+<itemref idref="ititle" linear="yes"/>
+<itemref idref="icopyright" linear="yes"/>
+<itemref idref="idedication" linear="yes"/>
+<itemref idref="itoc" linear="yes"/>
+<itemref idref="ipreface" linear="yes"/>
+<itemref idref="ipreface01" linear="yes"/>
+<itemref idref="ichapter01" linear="yes"/>
+<itemref idref="ichapter02" linear="yes"/>
+<itemref idref="ichapter03" linear="yes"/>
+<itemref idref="ichapter04" linear="yes"/>
+<itemref idref="ichapter05" linear="yes"/>
+<itemref idref="ichapter06" linear="yes"/>
+<itemref idref="ichapter07" linear="yes"/>
+<itemref idref="ichapter08" linear="yes"/>
+<itemref idref="ichapter09" linear="yes"/>
+<itemref idref="ichapter10" linear="yes"/>
+<itemref idref="inotes" linear="yes"/>
+</spine>
+<guide>
+<reference href="cover.xhtml" title="Cover Image" type="cover"/>
+<reference href="title.xhtml" title="Title Page" type="text"/>
+<reference href="toc.xhtml" title="Contents" type="toc"/>
+</guide>
+</package>

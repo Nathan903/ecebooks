@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:title>Holding Faith</dc:title>
+    <dc:creator opf:file-as="Rigby, Cynthia L.;" opf:role="aut">Rigby, Cynthia L.;</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (8.10.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>Abingdon Press</dc:publisher>
+    <dc:date>2018-09-15T04:00:00+00:00</dc:date>
+    <dc:rights>All Rights Reserved</dc:rights>
+    <meta name="calibre:timestamp" content="2025-09-08T15:05:43.202415+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fde43054-1d61-48de-9371-5f83b6152870</dc:identifier>
+    <dc:identifier opf:scheme="calibre">fde43054-1d61-48de-9371-5f83b6152870</dc:identifier>
+    <meta name="calibre:title_sort" content="Holding Faith"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ucAAFatDLBWy5qa4eXa2ODG" href="OPS/xhtml/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="halftitle" href="OPS/xhtml/halftitle.xhtml" media-type="application/xhtml+xml"/>
+    <item id="title" href="OPS/xhtml/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="OPS/xhtml/copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="dedication" href="OPS/xhtml/dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="front01" href="OPS/xhtml/front01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contents" href="OPS/xhtml/contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface" href="OPS/xhtml/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="introduction" href="OPS/xhtml/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part01" href="OPS/xhtml/part01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter01" href="OPS/xhtml/chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter02" href="OPS/xhtml/chapter02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part02" href="OPS/xhtml/part02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter03" href="OPS/xhtml/chapter03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter04" href="OPS/xhtml/chapter04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part03" href="OPS/xhtml/part03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter05" href="OPS/xhtml/chapter05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter06" href="OPS/xhtml/chapter06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part04" href="OPS/xhtml/part04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter07" href="OPS/xhtml/chapter07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter08" href="OPS/xhtml/chapter08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="part05" href="OPS/xhtml/part05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter09" href="OPS/xhtml/chapter09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter10" href="OPS/xhtml/chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes" href="OPS/xhtml/notes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="reflection" href="OPS/xhtml/reflection.xhtml" media-type="application/xhtml+xml"/>
+    <item id="index" href="OPS/xhtml/index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="index01" href="OPS/xhtml/index01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="common" href="OPS/images/common.jpg" media-type="image/jpeg"/>
+    <item id="pub" href="OPS/images/pub.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="ucAAFatDLBWy5qa4eXa2ODG"/>
+    <itemref idref="halftitle"/>
+    <itemref idref="title"/>
+    <itemref idref="copyright"/>
+    <itemref idref="dedication"/>
+    <itemref idref="front01"/>
+    <itemref idref="contents"/>
+    <itemref idref="preface"/>
+    <itemref idref="introduction"/>
+    <itemref idref="part01"/>
+    <itemref idref="chapter01"/>
+    <itemref idref="chapter02"/>
+    <itemref idref="part02"/>
+    <itemref idref="chapter03"/>
+    <itemref idref="chapter04"/>
+    <itemref idref="part03"/>
+    <itemref idref="chapter05"/>
+    <itemref idref="chapter06"/>
+    <itemref idref="part04"/>
+    <itemref idref="chapter07"/>
+    <itemref idref="chapter08"/>
+    <itemref idref="part05"/>
+    <itemref idref="chapter09"/>
+    <itemref idref="chapter10"/>
+    <itemref idref="notes"/>
+    <itemref idref="reflection"/>
+    <itemref idref="index"/>
+    <itemref idref="index01"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="OPS/xhtml/contents.xhtml" title="Contents"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

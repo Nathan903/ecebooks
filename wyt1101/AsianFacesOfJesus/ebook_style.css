@@ -1,0 +1,407 @@
+body
+{
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 5%;
+margin-bottom: 5%;
+text-align: justify;
+background-color: #FFFFFF;
+}
+.body-text
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+}
+.body-text1
+{
+margin:10px 0px 0px 0px;
+text-indent:0px;
+}
+.body-text2
+{
+margin:15px 0px 0px 0px;
+text-indent:0px;
+}
+.body-text3
+{
+margin:20px 0px 0px 0px;
+text-indent:0px;
+}
+.indent
+{
+margin: 0px 0px 0px 0px;
+text-indent:20px;
+}
+.indent1
+{
+margin: 20px 0px 0px 0px;
+text-indent:20px;
+}
+.fronttitle
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+font-size:125%;
+text-align:center;
+font-weight:normal;
+}
+.frontc
+{
+margin:0px 0px 30px 0px;
+text-indent:0px;
+text-align:center;
+}
+.front
+{
+margin:30px 0px 15px 0px;
+text-indent:0px;
+text-align:center;
+}
+.series
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+font-size:125%;
+text-align:center;
+font-weight:normal;
+}
+.title
+{
+margin:50px 0px 0px 0px;
+text-indent:0px;
+font-size:260%;
+text-align:center;
+}
+.editor
+{
+margin:45px 0px 0px 0px;
+text-indent:0px;
+font-size:180%;
+text-align:center;
+}
+.author
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+font-size:180%;
+text-align:center;
+}
+.imgt
+{
+margin:300px 0px 0px 0px;
+text-indent:0px;
+text-align:center;
+}
+.copyright
+{
+margin:15px 0px 0px 0px;
+padding:0px 0px 10px 0px;
+text-indent:0px;
+font-size:85%;
+border-bottom:1px solid black;
+}
+.copyright1
+{
+margin:15px 0px 0px 0px;
+text-indent:0px;
+font-size:85%;
+}
+.copyright2
+{
+margin:10px 0px 0px 0px;
+text-indent:0px;
+font-size:85%;
+text-align:center;
+}
+.copyright3
+{
+margin:50px 0px 0px 0px;
+text-indent:0px;
+font-size:85%;
+}
+.copyright4
+{
+margin:0px 0px 0px 40px;
+text-indent:0px;
+font-size:85%;
+}
+.copyright5
+{
+margin:0px 0px 0px 15px;
+text-indent:10px;
+font-size:85%;
+}
+.copyright6
+{
+margin:0px 0px 0px 15px;
+text-indent:0px;
+font-size:85%;
+}
+.tbc
+{
+margin:0px 0px 0px 15px;
+text-indent:0px;
+font-size:85%;
+}
+.toctitle
+{
+margin:0px 0px 60px 0px;
+text-indent:0px;
+text-align:center;
+font-size:150%;
+}
+.toc
+{
+margin:20px 0px 0px 0px;
+text-indent:0px;
+text-align:left;
+}
+.toc1
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+text-align:left;
+}
+.toc2
+{
+margin:20px 0px 20px 0px;
+text-indent:0px;
+text-align:center;
+}
+.toc3
+{
+margin:0px 0px 0px 25px;
+text-indent:0px;
+text-align:left;
+}
+.toc4
+{
+margin:20px 0px 0px 6px;
+text-indent:-25px;
+padding-left:25px;
+text-align:left;
+}
+.toc5
+{
+margin:20px 0px 0px 0px;
+text-indent:-25px;
+padding-left:25px;
+text-align:left;
+}
+.chaptertitle1
+{
+margin:0px 0px 70px 0px;
+text-indent:0px;
+text-align:center;
+font-size:150%;
+}
+.chaptertitle2
+{
+margin:0px 0px 35px 0px;
+text-indent:0px;
+text-align:center;
+font-size:150%;
+}
+.right
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+text-align:right;
+}
+.right1
+{
+margin:15px 0px 0px 0px;
+text-indent:0px;
+text-align:right;
+}
+.chapterauthor
+{
+margin:0px 0px 80px 0px;
+text-indent:0px;
+text-align:center;
+font-size:140%;
+}
+.chapterauthor1
+{
+margin:0px 0px 70px 0px;
+text-indent:0px;
+text-align:center;
+font-size:140%;
+}
+.subhead
+{
+margin:15px 0px 15px 0px;
+text-indent:0px;
+text-align:center;
+font-size:100%;
+}
+.subhead1
+{
+margin:15px 0px 15px 0px;
+text-indent:0px;
+text-align:left;
+font-size:100%;
+}
+.hanging
+{
+margin:0px 0px 0px 20px;
+text-indent:-20px;
+padding-left:20px;
+}
+.hanging2
+{
+margin:20px 20px 0px 20px;
+text-indent:-20px;
+padding-left:20px;
+}
+.hanging3
+{
+margin:0px 20px 0px 20px;
+text-indent:-20px;
+padding-left:20px;
+}
+.hanging4
+{
+margin:0px 20px 20px 20px;
+text-indent:-20px;
+padding-left:20px;
+}
+.noteitem
+{
+margin: 0px 0px 0px 0px;
+text-indent:27px;
+font-size:85%;
+}
+.noteitem1
+{
+margin: 0px 0px 0px 0px;
+text-indent:20px;
+font-size:85%;
+}
+.partnumber
+{
+margin:0px 0px 40px 0px;
+text-indent:0px;
+text-align:center;
+font-size:150%;
+}
+.parttitle
+{
+margin:0px 0px 90px 0px;
+text-indent:0px;
+text-align:center;
+font-size:180%;
+}
+.list
+{
+margin:0px 0px 0px -20px;
+text-indent:0px;
+}
+.sp
+{
+margin-top:0px;
+margin-bottom:0px;
+}
+.hanging1
+{
+margin:0px 0px 0px 0px;
+text-indent:-15px;
+padding-left:15px;
+font-size:85%;
+}
+.chapternumber
+{
+margin:0px 0px 50px 0px;
+text-indent:0px;
+text-align:center;
+font-size:140%;
+}
+.chaptertitle
+{
+margin:0px 0px 25px 0px;
+text-indent:0px;
+text-align:center;
+font-size:150%;
+}
+.blockquote
+{
+margin:20px 20px 20px 20px;
+text-indent:0px;
+}
+.blockquote1
+{
+margin:20px 20px 0px 20px;
+text-indent:0px;
+}
+.blockquote-indent
+{
+margin:0px 20px 0px 20px;
+text-indent:20px;
+}
+.center
+{
+margin:20px 0px 10px 0px;
+text-indent:0px;
+text-align:center;
+font-size:100%;
+}
+.poem
+{
+margin:20px 0px 20px 70px;
+text-indent:0px;
+}
+.poem1
+{
+margin:20px 0px 20px 55px;
+text-indent:0px;
+}
+.poem2
+{
+margin:20px 0px 0px 40px;
+text-indent:0px;
+}
+.poem-right
+{
+margin:0px 80px 15px 0px;
+text-indent:0px;
+text-align:right;
+}
+.poem3
+{
+margin:15px 0px 0px 75px;
+text-indent:0px;
+}
+.poem-right1
+{
+margin:0px 200px 15px 0px;
+text-indent:0px;
+text-align:right;
+}
+.poem4
+{
+margin:20px 0px 0px 70px;
+text-indent:0px;
+}
+.epigraph
+{
+margin:0px 0px 0px 0px;
+text-indent:0px;
+text-align:center;
+}
+.epigraph1
+{
+margin:20px 20px 0px 20px;
+text-indent:20px;
+}
+.epigraph-right
+{
+margin:0px 20px 20px 0px;
+text-indent:0px;
+text-align:right;
+}
+.epigraph-right1
+{
+margin:0px 20px 10px 0px;
+text-indent:0px;
+text-align:right;
+}
