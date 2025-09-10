@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">fec4fa40-d218-4cdd-bc7f-6af300a199d6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fec4fa40-d218-4cdd-bc7f-6af300a199d6</dc:identifier>
+        <dc:title>Gospel Parallels, NRSV Edition: A Comparison of the Synoptic Gospels</dc:title>
+        <dc:creator opf:file-as="Throckmorton, Burton H. Jr." opf:role="aut">Burton H. Throckmorton Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-11-13T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A classic since 1949, Gospel Parallels presents Matthew, Mark, and Luke printed side-by-side for easy and enlightening comparative study. &lt;/p&gt;
+&lt;p&gt;Using a parallel arrangement of columns, Gospel Parallels highlights differences and similarities in language and chronology between the first three Gospels. This unique reference tool will benefit anyone interested in examining the life, death, and resurrection of Jesus. Preachers will find this work useful for creating a complete picture of the life of Christ. Students of the English Bible will use it to come to their own conclusions about the variations in Matthew, Mark, and Luke. And advanced scholars will use the scholarly apparatus to study the textual variations in the earliest known Greek and Latin Manuscripts of the Gospels. &lt;/p&gt;
+&lt;p&gt;Features:Easy-to-follow system of comparisonTextual notes for in-depth study of biblical manuscriptsNoncanonical parallels to the Gospel textText from the New Revised Standard Version of the BibleThis 5th edition features revised and updated textual notes based on the NRSV, enlarged type size, an all-new page design, and an improved system of comparison.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Thomas Nelson</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Biblical Studies</dc:subject>
+        <dc:subject>New Testament</dc:subject>
+        <dc:subject>Jesus; The Gospels &amp; Acts</dc:subject>
+        <dc:subject>Biblical Criticism &amp; Interpretation</dc:subject>
+        <dc:subject>Biblical Commentary</dc:subject>
+        <dc:subject>Christian Ministry</dc:subject>
+        <dc:subject>Pastoral Resources</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
